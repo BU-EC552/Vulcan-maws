@@ -1,0 +1,3026 @@
+CRYST1    0.000    0.000    0.000   0.00   0.00   0.00               1
+ATOM      1  N   LYS A   1       0.438   2.102   7.211  1.00  5.98           N  
+TER       2      LYS A   1 
+ATOM      2  O   LYS A   1       2.354   3.999  14.465  1.00  8.80           O  
+TER       3      LYS A   1 
+ATOM      3  NZ  LYS A   1      -0.488  26.595  14.898  1.00 28.53           N  
+TER       4      LYS A   1 
+ATOM      4  N   VAL A   2       0.407  26.756  14.642  1.00  5.99           N  
+TER       5      VAL A   2 
+ATOM      5  O   VAL A   2      -2.626  28.289  14.520  1.00  9.81           O  
+TER       6      VAL A   2 
+ATOM      6  N   PHE A   3      -2.929  28.358  12.685  1.00  6.45           N  
+TER       7      PHE A   3 
+ATOM      7  O   PHE A   3      -2.929  30.706  14.630  1.00  9.70           O  
+TER       8      PHE A   3 
+ATOM      8  N   GLY A   4      -1.030  27.802  17.094  1.00  8.36           N  
+TER       9      GLY A   4 
+ATOM      9  O   GLY A   4       0.429  28.191  19.050  1.00  9.18           O  
+TER      10      GLY A   4 
+ATOM     10  N   ARG A   5      -0.410  27.915  19.045  1.00  8.02           N  
+TER      11      ARG A   5 
+ATOM     11  O   ARG A   5       2.564  28.482  20.454  1.00 10.08           O  
+TER      12      ARG A   5 
+ATOM     12  NE  ARG A   5       0.464  30.520  17.210  1.00 12.25           N  
+TER      13      ARG A   5 
+ATOM     13  NH1 ARG A   5       0.116  30.237  20.189  1.00 11.43           N  
+TER      14      ARG A   5 
+ATOM     14  NH2 ARG A   5      -0.138  32.189  19.381  1.00 19.07           N  
+TER      15      ARG A   5 
+ATOM     15  N   CYS A   6       0.131  32.547  19.037  1.00  8.60           N  
+TER      16      CYS A   6 
+ATOM     16  O   CYS A   6      -0.124  32.056  21.726  1.00  9.18           O  
+TER      17      CYS A   6 
+ATOM     17  SG  CYS A   6       0.015  34.635  20.082  1.00 13.32           S  
+TER      18      CYS A   6 
+ATOM     18  N   GLU A   7       0.266  34.850  22.155  1.00  6.12           N  
+TER      19      GLU A   7 
+ATOM     19  O   GLU A   7       0.571  36.376  22.000  1.00  7.31           O  
+TER      20      GLU A   7 
+ATOM     20  OE1 GLU A   7      -0.363  36.234  24.888  1.00 14.72           O  
+TER      21      GLU A   7 
+ATOM     21  OE2 GLU A   7       0.544  35.913  24.456  1.00 13.92           O  
+TER      22      GLU A   7 
+ATOM     22  N   LEU A   8      -1.161  37.882  25.253  1.00  4.76           N  
+TER      23      LEU A   8 
+ATOM     23  O   LEU A   8      -1.862  39.011  24.601  1.00  7.44           O  
+TER      24      LEU A   8 
+ATOM     24  N   ALA A   9      -0.784  39.124  22.484  1.00  5.84           N  
+TER      25      ALA A   9 
+ATOM     25  O   ALA A   9       1.310  40.825  21.951  1.00  8.26           O  
+TER      26      ALA A   9 
+ATOM     26  N   ALA A  10       2.448  40.750  21.830  1.00  6.49           N  
+TER      27      ALA A  10 
+ATOM     27  O   ALA A  10       2.539  41.113  19.303  1.00  8.70           O  
+TER      28      ALA A  10 
+ATOM     28  N   ALA A  11       3.777  40.914  18.382  1.00  7.06           N  
+TER      29      ALA A  11 
+ATOM     29  O   ALA A  11       1.197  43.308  21.469  1.00  9.61           O  
+TER      30      ALA A  11 
+ATOM     30  N   MET A  12       4.287  44.775  21.593  1.00  5.70           N  
+TER      31      MET A  12 
+ATOM     31  O   MET A  12       3.537  44.619  23.606  1.00  9.63           O  
+TER      32      MET A  12 
+ATOM     32  SD  MET A  12       3.325  46.745  24.187  1.00  8.60           S  
+TER      33      MET A  12 
+ATOM     33  N   LYS A  13       4.733  44.615  20.536  1.00  8.93           N  
+TER      34      LYS A  13 
+ATOM     34  O   LYS A  13       3.968  47.383  19.977  1.00 14.29           O  
+TER      35      LYS A  13 
+ATOM     35  NZ  LYS A  13       4.696  49.586  19.986  1.00 45.34           N  
+TER      36      LYS A  13 
+ATOM     36  N   ARG A  14       6.918  49.050  19.753  1.00 11.40           N  
+TER      37      ARG A  14 
+ATOM     37  O   ARG A  14       6.175  51.314  21.653  1.00 15.05           O  
+TER      38      ARG A  14 
+ATOM     38  NE  ARG A  14       7.292  53.343  21.552  1.00 30.17           N  
+TER      39      ARG A  14 
+ATOM     39  NH1 ARG A  14       6.330  52.999  23.559  1.00 34.53           N  
+TER      40      ARG A  14 
+ATOM     40  NH2 ARG A  14       7.426  52.434  24.056  1.00 29.09           N  
+TER      41      ARG A  14 
+ATOM     41  N   HIS A  15       6.638  52.616  23.882  1.00 10.79           N  
+TER      42      HIS A  15 
+ATOM     42  O   HIS A  15       7.271  54.938  25.135  1.00 13.55           O  
+TER      43      HIS A  15 
+ATOM     43  ND1 HIS A  15       7.401  54.609  27.124  1.00 17.29           N  
+TER      44      HIS A  15 
+ATOM     44  NE2 HIS A  15       7.078  56.614  26.232  1.00 17.22           N  
+TER      45      HIS A  15 
+ATOM     45  N   GLY A  16       7.077  51.562  19.264  1.00 11.03           N  
+TER      46      GLY A  16 
+ATOM     46  O   GLY A  16       8.252  53.719  18.756  1.00 11.36           O  
+TER      47      GLY A  16 
+ATOM     47  N   LEU A  17       7.090  54.149  19.738  1.00 10.20           N  
+TER      48      LEU A  17 
+ATOM     48  O   LEU A  17       7.471  55.771  18.033  1.00 13.58           O  
+TER      49      LEU A  17 
+ATOM     49  N   ASP A  18       9.457  53.509  18.228  1.00 12.48           N  
+TER      50      ASP A  18 
+ATOM     50  O   ASP A  18      10.713  53.029  20.257  1.00 15.82           O  
+TER      51      ASP A  18 
+ATOM     51  OD1 ASP A  18      12.085  55.340  17.126  1.00 30.30           O  
+TER      52      ASP A  18 
+ATOM     52  OD2 ASP A  18      11.805  53.711  16.450  1.00 28.37           O  
+TER      53      ASP A  18 
+ATOM     53  N   ASN A  19      11.511  54.149  16.877  1.00 12.24           N  
+TER      54      ASN A  19 
+ATOM     54  O   ASN A  19      13.782  54.315  18.251  1.00 10.91           O  
+TER      55      ASN A  19 
+ATOM     55  OD1 ASN A  19      15.194  53.637  19.186  1.00 36.22           O  
+TER      56      ASN A  19 
+ATOM     56  ND2 ASN A  19      13.205  52.565  19.190  1.00 30.01           N  
+TER      57      ASN A  19 
+ATOM     57  N   TYR A  20      13.405  54.197  20.625  1.00  8.42           N  
+TER      58      TYR A  20 
+ATOM     58  O   TYR A  20      14.273  52.562  21.104  1.00  9.05           O  
+TER      59      TYR A  20 
+ATOM     59  OH  TYR A  20      16.609  53.005  24.372  1.00 15.26           O  
+TER      60      TYR A  20 
+ATOM     60  N   ARG A  21      15.654  54.033  22.852  1.00  8.26           N  
+TER      61      ARG A  21 
+ATOM     61  O   ARG A  21      14.625  56.295  22.324  1.00 10.08           O  
+TER      62      ARG A  21 
+ATOM     62  NE  ARG A  21      14.234  57.887  24.343  1.00 39.46           N  
+TER      63      ARG A  21 
+ATOM     63  NH1 ARG A  21      12.894  57.914  23.552  1.00 39.07           N  
+TER      64      ARG A  21 
+ATOM     64  NH2 ARG A  21      12.631  57.559  25.207  1.00 29.74           N  
+TER      65      ARG A  21 
+ATOM     65  N   GLY A  22      12.114  59.401  24.922  1.00  7.61           N  
+TER      66      GLY A  22 
+ATOM     66  O   GLY A  22      14.590  56.656  27.146  1.00 10.36           O  
+TER      67      GLY A  22 
+ATOM     67  N   TYR A  23      13.885  57.954  26.728  1.00  5.79           N  
+TER      68      TYR A  23 
+ATOM     68  O   TYR A  23      -0.724   2.722   1.796  1.00  8.07           O  
+TER      69      TYR A  23 
+ATOM     69  OH  TYR A  23       1.345   4.330   5.984  1.00  6.89           O  
+TER      70      TYR A  23 
+ATOM     70  N   SER A  24       0.325   4.057   6.013  1.00  6.90           N  
+TER      71      SER A  24 
+ATOM     71  O   SER A  24       3.359   5.799   3.054  1.00  8.65           O  
+TER      72      SER A  24 
+ATOM     72  OG  SER A  24       1.166   6.568   3.891  1.00 13.64           O  
+TER      73      SER A  24 
+ATOM     73  N   LEU A  25      -0.330   6.115   4.574  1.00  6.91           N  
+TER      74      LEU A  25 
+ATOM     74  O   LEU A  25       0.702   8.600   3.023  1.00  8.29           O  
+TER      75      LEU A  25 
+ATOM     75  N   GLY A  26      -1.599  10.738   2.326  1.00  5.38           N  
+TER      76      GLY A  26 
+ATOM     76  O   GLY A  26      -0.265  10.546   2.975  1.00  7.29           O  
+TER      77      GLY A  26 
+ATOM     77  N   ASN A  27       0.702  10.549   2.021  1.00  4.80           N  
+TER      78      ASN A  27 
+ATOM     78  O   ASN A  27      -2.664  10.152   1.015  1.00  5.46           O  
+TER      79      ASN A  27 
+ATOM     79  OD1 ASN A  27      -1.213   9.627   5.741  1.00 10.10           O  
+TER      80      ASN A  27 
+ATOM     80  ND2 ASN A  27       0.265  10.036   5.051  1.00  2.39           N  
+TER      81      ASN A  27 
+ATOM     81  N   TRP A  28       0.878  10.324   7.032  1.00  3.66           N  
+TER      82      TRP A  28 
+ATOM     82  O   TRP A  28       1.302   8.738   8.054  1.00  4.58           O  
+TER      83      TRP A  28 
+ATOM     83  NE1 TRP A  28       2.895  12.039  10.962  1.00  5.97           N  
+TER      84      TRP A  28 
+ATOM     84  N   VAL A  29       0.326  10.204  12.316  1.00  2.57           N  
+TER      85      VAL A  29 
+ATOM     85  O   VAL A  29      -0.333  11.851   6.845  1.00  5.31           O  
+TER      86      VAL A  29 
+ATOM     86  N   CYS A  30      -0.892  14.081   7.760  1.00  2.29           N  
+TER      87      CYS A  30 
+ATOM     87  O   CYS A  30      -1.520  14.202   5.869  1.00  4.00           O  
+TER      88      CYS A  30 
+ATOM     88  SG  CYS A  30      -2.930  14.761   8.276  1.00  6.23           S  
+TER      89      CYS A  30 
+ATOM     89  N   ALA A  31      -3.169  14.520   6.593  1.00  3.14           N  
+TER      90      ALA A  31 
+ATOM     90  O   ALA A  31      -1.378  16.671   7.634  1.00  6.03           O  
+TER      91      ALA A  31 
+ATOM     91  N   ALA A  32      -0.343  16.767   5.594  1.00  4.55           N  
+TER      92      ALA A  32 
+ATOM     92  O   ALA A  32      -2.026  16.247   4.652  1.00  6.68           O  
+TER      93      ALA A  32 
+ATOM     93  N   LYS A  33      -0.476  14.017  10.047  1.00  3.58           N  
+TER      94      LYS A  33 
+ATOM     94  O   LYS A  33       0.774  16.358  10.814  1.00  5.40           O  
+TER      95      LYS A  33 
+ATOM     95  NZ  LYS A  33       2.357  16.181  13.108  1.00 16.42           N  
+TER      96      LYS A  33 
+ATOM     96  N   PHE A  34       1.436  17.258  13.144  1.00  3.67           N  
+TER      97      PHE A  34 
+ATOM     97  O   PHE A  34       2.538  14.365  13.655  1.00  6.51           O  
+TER      98      PHE A  34 
+ATOM     98  N   GLU A  35      -0.871  20.136  11.541  1.00  2.37           N  
+TER      99      GLU A  35 
+ATOM     99  O   GLU A  35      -1.123  20.434   9.543  1.00  5.32           O  
+TER     100      GLU A  35 
+ATOM    100  OE1 GLU A  35      -2.218  22.638  11.213  1.00  5.03           O  
+TER     101      GLU A  35 
+ATOM    101  OE2 GLU A  35      -3.179  24.361  10.828  1.00  8.52           O  
+TER     102      GLU A  35 
+ATOM    102  N   SER A  36      -1.879  25.108  11.043  1.00  2.22           N  
+TER     103      SER A  36 
+ATOM    103  O   SER A  36       0.232  26.650  10.397  1.00  5.58           O  
+TER     104      SER A  36 
+ATOM    104  OG  SER A  36       1.565  26.357   9.649  1.00  4.02           O  
+TER     105      SER A  36 
+ATOM    105  N   ASN A  37       2.197  24.203   9.601  1.00  4.21           N  
+TER     106      ASN A  37 
+ATOM    106  O   ASN A  37       1.260  22.085   9.633  1.00  6.07           O  
+TER     107      ASN A  37 
+ATOM    107  OD1 ASN A  37      -0.373  20.037  13.744  1.00 10.77           O  
+TER     108      ASN A  37 
+ATOM    108  ND2 ASN A  37      -1.109  21.790  13.321  1.00 18.13           N  
+TER     109      ASN A  37 
+ATOM    109  N   PHE A  38       0.246  22.255  12.619  1.00  3.02           N  
+TER     110      PHE A  38 
+ATOM    110  O   PHE A  38      -0.842  21.901  15.543  1.00  6.44           O  
+TER     111      PHE A  38 
+ATOM    111  N   ASN A  39       0.026  22.563  17.282  1.00  3.27           N  
+TER     112      ASN A  39 
+ATOM    112  O   ASN A  39       3.353  22.233  18.772  1.00  5.30           O  
+TER     113      ASN A  39 
+ATOM    113  OD1 ASN A  39       0.244  24.480  13.620  1.00  5.10           O  
+TER     114      ASN A  39 
+ATOM    114  ND2 ASN A  39       1.000  24.746  15.305  1.00  9.70           N  
+TER     115      ASN A  39 
+ATOM    115  N   THR A  40      -0.480  24.263  15.974  1.00  3.74           N  
+TER     116      THR A  40 
+ATOM    116  O   THR A  40       0.421  26.750  14.619  1.00  6.33           O  
+TER     117      THR A  40 
+ATOM    117  OG1 THR A  40      -1.713  26.420  15.132  1.00  6.95           O  
+TER     118      THR A  40 
+ATOM    118  N   GLN A  41      -1.729  28.731  15.485  1.00  3.87           N  
+TER     119      GLN A  41 
+ATOM    119  O   GLN A  41      -2.934  28.336  12.663  1.00  6.87           O  
+TER     120      GLN A  41 
+ATOM    120  OE1 GLN A  41      -2.967  30.622  13.117  1.00  9.60           O  
+TER     121      GLN A  41 
+ATOM    121  NE2 GLN A  41      -2.024  30.784  12.821  1.00  9.17           N  
+TER     122      GLN A  41 
+ATOM    122  N   ALA A  42      -4.119  30.500  13.250  1.00  4.36           N  
+TER     123      ALA A  42 
+ATOM    123  O   ALA A  42      -4.111  26.699  16.832  1.00  6.26           O  
+TER     124      ALA A  42 
+ATOM    124  N   THR A  43      -1.032  27.804  17.081  1.00  3.93           N  
+TER     125      THR A  43 
+ATOM    125  O   THR A  43       0.436  28.190  19.038  1.00  8.82           O  
+TER     126      THR A  43 
+ATOM    126  OG1 THR A  43       1.725  26.816  19.104  1.00  8.95           O  
+TER     127      THR A  43 
+ATOM    127  N   ASN A  44       2.568  28.465  20.449  1.00  5.24           N  
+TER     128      ASN A  44 
+ATOM    128  O   ASN A  44       3.036  29.988  18.266  1.00  8.91           O  
+TER     129      ASN A  44 
+ATOM    129  OD1 ASN A  44       0.128  30.234  20.179  1.00 42.93           O  
+TER     130      ASN A  44 
+ATOM    130  ND2 ASN A  44      -0.137  32.185  19.377  1.00 32.91           N  
+TER     131      ASN A  44 
+ATOM    131  N   ARG A  45       0.153  32.539  19.040  1.00  8.35           N  
+TER     132      ARG A  45 
+ATOM    132  O   ARG A  45      -0.110  32.051  21.720  1.00 12.18           O  
+TER     133      ARG A  45 
+ATOM    133  NE  ARG A  45      -0.155  34.632  22.548  1.00 22.70           N  
+TER     134      ARG A  45 
+ATOM    134  NH1 ARG A  45       0.580  36.369  21.994  1.00 23.35           N  
+TER     135      ARG A  45 
+ATOM    135  NH2 ARG A  45      -0.010  36.854  20.866  1.00 17.76           N  
+TER     136      ARG A  45 
+ATOM    136  N   ASN A  46       0.154  37.138  23.101  1.00 12.33           N  
+TER     137      ASN A  46 
+ATOM    137  O   ASN A  46       0.534  35.911  24.448  1.00 20.85           O  
+TER     138      ASN A  46 
+ATOM    138  OD1 ASN A  46      -0.585  38.056  25.086  1.00 21.37           O  
+TER     139      ASN A  46 
+ATOM    139  ND2 ASN A  46      -1.878  39.012  24.587  1.00 17.42           N  
+TER     140      ASN A  46 
+ATOM    140  N   THR A  47      -0.014  39.036  25.023  1.00 18.87           N  
+TER     141      THR A  47 
+ATOM    141  O   THR A  47       0.061  39.028  22.583  1.00 23.77           O  
+TER     142      THR A  47 
+ATOM    142  OG1 THR A  47       1.363  38.469  22.529  1.00 33.96           O  
+TER     143      THR A  47 
+ATOM    143  N   ASP A  48       1.304  40.821  21.933  1.00 17.86           N  
+TER     144      ASP A  48 
+ATOM    144  O   ASP A  48       3.362  40.690  19.834  1.00 18.20           O  
+TER     145      ASP A  48 
+ATOM    145  OD1 ASP A  48       1.714  41.175  19.292  1.00 22.55           O  
+TER     146      ASP A  48 
+ATOM    146  OD2 ASP A  48       3.778  40.909  18.371  1.00 20.68           O  
+TER     147      ASP A  48 
+ATOM    147  N   GLY A  49       3.825  42.578  21.493  1.00 13.40           N  
+TER     148      GLY A  49 
+ATOM    148  O   GLY A  49       3.426  42.816  21.257  1.00 14.41           O  
+TER     149      GLY A  49 
+ATOM    149  N   SER A  50       4.286  44.769  21.585  1.00  7.71           N  
+TER     150      SER A  50 
+ATOM    150  O   SER A  50       3.533  44.611  23.594  1.00  8.19           O  
+TER     151      SER A  50 
+ATOM    151  OG  SER A  50       4.491  46.542  23.245  1.00  8.82           O  
+TER     152      SER A  50 
+ATOM    152  N   THR A  51       3.320  46.732  24.186  1.00  4.60           N  
+TER     153      THR A  51 
+ATOM    153  O   THR A  51       5.675  46.652  20.604  1.00  5.59           O  
+TER     154      THR A  51 
+ATOM    154  OG1 THR A  51       3.969  47.378  19.974  1.00  6.79           O  
+TER     155      THR A  51 
+ATOM    155  N   ASP A  52       6.797  47.147  18.909  1.00  3.72           N  
+TER     156      ASP A  52 
+ATOM    156  O   ASP A  52       4.700  49.580  19.986  1.00  5.94           O  
+TER     157      ASP A  52 
+ATOM    157  OD1 ASP A  52       7.102  51.540  19.867  1.00 18.42           O  
+TER     158      ASP A  52 
+ATOM    158  OD2 ASP A  52       6.179  51.301  21.655  1.00 12.45           O  
+TER     159      ASP A  52 
+ATOM    159  N   TYR A  53       7.372  50.769  22.240  1.00  3.04           N  
+TER     160      TYR A  53 
+ATOM    160  O   TYR A  53       7.306  53.331  21.565  1.00  5.06           O  
+TER     161      TYR A  53 
+ATOM    161  OH  TYR A  53       7.272  54.147  26.225  1.00  8.14           O  
+TER     162      TYR A  53 
+ATOM    162  N   GLY A  54       7.326  53.148  26.117  1.00  4.26           N  
+TER     163      GLY A  54 
+ATOM    163  O   GLY A  54       7.151  56.807  24.546  1.00  6.61           O  
+TER     164      GLY A  54 
+ATOM    164  N   ILE A  55       7.102  56.565  26.274  1.00  4.95           N  
+TER     165      ILE A  55 
+ATOM    165  O   ILE A  55       9.185  52.831  18.821  1.00  7.14           O  
+TER     166      ILE A  55 
+ATOM    166  N   LEU A  56       7.463  55.765  18.047  1.00  4.56           N  
+TER     167      LEU A  56 
+ATOM    167  O   LEU A  56       8.971  55.550  18.890  1.00  5.03           O  
+TER     168      LEU A  56 
+ATOM    168  N   GLN A  57      10.712  53.025  20.255  1.00  2.61           N  
+TER     169      GLN A  57 
+ATOM    169  O   GLN A  57      12.083  55.322  17.112  1.00  4.75           O  
+TER     170      GLN A  57 
+ATOM    170  OE1 GLN A  57      13.920  53.126  16.496  1.00  8.01           O  
+TER     171      GLN A  57 
+ATOM    171  NE2 GLN A  57      13.781  54.305  18.246  1.00  4.86           N  
+TER     172      GLN A  57 
+ATOM    172  N   ILE A  58      14.209  55.368  18.475  1.00  3.04           N  
+TER     173      ILE A  58 
+ATOM    173  O   ILE A  58      13.202  52.560  19.195  1.00  7.57           O  
+TER     174      ILE A  58 
+ATOM    174  N   ASN A  59      15.145  52.916  20.520  1.00  5.68           N  
+TER     175      ASN A  59 
+ATOM    175  O   ASN A  59      15.679  51.606  22.358  1.00  8.67           O  
+TER     176      ASN A  59 
+ATOM    176  OD1 ASN A  59      15.672  53.849  23.149  1.00 40.88           O  
+TER     177      ASN A  59 
+ATOM    177  ND2 ASN A  59      16.575  53.014  24.398  1.00 29.80           N  
+TER     178      ASN A  59 
+ATOM    178  N   SER A  60      15.602  54.041  22.861  1.00  4.68           N  
+TER     179      SER A  60 
+ATOM    179  O   SER A  60      14.612  56.290  22.323  1.00  9.61           O  
+TER     180      SER A  60 
+ATOM    180  OG  SER A  60      14.163  55.285  24.931  1.00  7.40           O  
+TER     181      SER A  60 
+ATOM    181  N   ARG A  61      13.746  57.351  24.848  1.00  8.90           N  
+TER     182      ARG A  61 
+ATOM    182  O   ARG A  61      12.917  57.958  23.524  1.00 14.49           O  
+TER     183      ARG A  61 
+ATOM    183  NE  ARG A  61      12.223  57.352  26.344  1.00 39.94           N  
+TER     184      ARG A  61 
+ATOM    184  NH1 ARG A  61      13.860  57.962  26.725  1.00 32.81           N  
+TER     185      ARG A  61 
+ATOM    185  NH2 ARG A  61      15.609   3.723   1.768  1.00 38.32           N  
+TER     186      ARG A  61 
+ATOM    186  N   TRP A  62       0.049   4.146   1.279  1.00 12.99           N  
+TER     187      TRP A  62 
+ATOM    187  O   TRP A  62       0.891   4.291   3.135  1.00 12.89           O  
+TER     188      TRP A  62 
+ATOM    188  NE1 TRP A  62       2.274   4.036   5.394  1.00 19.99           N  
+TER     189      TRP A  62 
+ATOM    189  N   TRP A  63       0.378   6.286   2.246  1.00  7.41           N  
+TER     190      TRP A  63 
+ATOM    190  O   TRP A  63      -0.923   8.049   3.960  1.00  8.47           O  
+TER     191      TRP A  63 
+ATOM    191  NE1 TRP A  63      -2.335  10.154   2.931  1.00  8.81           N  
+TER     192      TRP A  63 
+ATOM    192  N   CYS A  64       0.699  10.564   2.033  1.00  4.67           N  
+TER     193      CYS A  64 
+ATOM    193  O   CYS A  64      -2.663  10.170   1.027  1.00  8.54           O  
+TER     194      CYS A  64 
+ATOM    194  SG  CYS A  64      -0.438   7.989   6.183  1.00  6.62           S  
+TER     195      CYS A  64 
+ATOM    195  N   ASN A  65      -1.212   9.640   5.750  1.00  6.10           N  
+TER     196      ASN A  65 
+ATOM    196  O   ASN A  65       0.175  10.107   7.510  1.00  7.35           O  
+TER     197      ASN A  65 
+ATOM    197  OD1 ASN A  65       1.222  10.057   7.482  1.00 10.75           O  
+TER     198      ASN A  65 
+ATOM    198  ND2 ASN A  65       2.264  10.449   9.343  1.00 10.96           N  
+TER     199      ASN A  65 
+ATOM    199  N   ASP A  66       1.284  11.498   9.675  1.00  5.53           N  
+TER     200      ASP A  66 
+ATOM    200  O   ASP A  66       2.143  12.859  11.222  1.00  7.93           O  
+TER     201      ASP A  66 
+ATOM    201  OD1 ASP A  66       1.190  12.804  13.298  1.00  7.93           O  
+TER     202      ASP A  66 
+ATOM    202  OD2 ASP A  66       1.847  10.537  11.593  1.00  8.39           O  
+TER     203      ASP A  66 
+ATOM    203  N   GLY A  67       0.341  10.175  12.333  1.00  6.85           N  
+TER     204      GLY A  67 
+ATOM    204  O   GLY A  67      -0.305  11.867   6.845  1.00 11.55           O  
+TER     205      GLY A  67 
+ATOM    205  N   ARG A  68       0.246  12.351   5.917  1.00  7.85           N  
+TER     206      ARG A  68 
+ATOM    206  O   ARG A  68      -0.905  14.096   7.759  1.00 11.54           O  
+TER     207      ARG A  68 
+ATOM    207  NE  ARG A  68      -1.377  14.285   7.320  1.00 21.37           N  
+TER     208      ARG A  68 
+ATOM    208  NH1 ARG A  68      -3.169  14.571   6.570  1.00 19.82           N  
+TER     209      ARG A  68 
+ATOM    209  NH2 ARG A  68      -3.670  13.207   7.462  1.00 21.59           N  
+TER     210      ARG A  68 
+ATOM    210  N   THR A  69      -3.006  16.197   6.683  1.00  7.46           N  
+TER     211      THR A  69 
+ATOM    211  O   THR A  69      -0.323  16.799   5.579  1.00 10.78           O  
+TER     212      THR A  69 
+ATOM    212  OG1 THR A  69      -3.294  17.857   5.463  1.00  9.06           O  
+TER     213      THR A  69 
+ATOM    213  N   PRO A  70      -2.053  14.613   9.207  1.00  9.76           N  
+TER     214      PRO A  70 
+ATOM    214  O   PRO A  70       0.224  16.122   8.771  1.00 14.11           O  
+TER     215      PRO A  70 
+ATOM    215  N   GLY A  71       1.383  14.638  11.649  1.00 10.53           N  
+TER     216      GLY A  71 
+ATOM    216  O   GLY A  71       1.437  17.261  13.132  1.00 15.84           O  
+TER     217      GLY A  71 
+ATOM    217  N   SER A  72       1.625  16.000  13.591  1.00 10.92           N  
+TER     218      SER A  72 
+ATOM    218  O   SER A  72       2.931  16.132  14.932  1.00 14.19           O  
+TER     219      SER A  72 
+ATOM    219  OG  SER A  72       3.797  17.062  15.175  1.00 13.91           O  
+TER     220      SER A  72 
+ATOM    220  N   ARG A  73       2.768  17.880  10.671  1.00  9.93           N  
+TER     221      ARG A  73 
+ATOM    221  O   ARG A  73      -0.244  18.237  12.128  1.00 12.92           O  
+TER     222      ARG A  73 
+ATOM    222  NE  ARG A  73      -1.127  20.443   9.565  1.00 22.89           N  
+TER     223      ARG A  73 
+ATOM    223  NH1 ARG A  73      -2.125  22.268  10.582  1.00 17.64           N  
+TER     224      ARG A  73 
+ATOM    224  NH2 ARG A  73      -1.159  23.032  10.995  1.00 20.74           N  
+TER     225      ARG A  73 
+ATOM    225  N   ASN A  74      -2.197  22.651  11.348  1.00  9.88           N  
+TER     226      ASN A  74 
+ATOM    226  O   ASN A  74      -2.486  24.534  10.459  1.00 11.75           O  
+TER     227      ASN A  74 
+ATOM    227  OD1 ASN A  74      -0.161  25.490   9.745  1.00 11.59           O  
+TER     228      ASN A  74 
+ATOM    228  ND2 ASN A  74       1.545  26.346   9.563  1.00  8.79           N  
+TER     229      ASN A  74 
+ATOM    229  N   LEU A  75       2.178  24.194   9.500  1.00 10.00           N  
+TER     230      LEU A  75 
+ATOM    230  O   LEU A  75       1.226  22.078   9.542  1.00 12.62           O  
+TER     231      LEU A  75 
+ATOM    231  N   CYS A  76       0.271  22.239  12.627  1.00  7.76           N  
+TER     232      CYS A  76 
+ATOM    232  O   CYS A  76      -0.826  21.893  15.567  1.00 11.45           O  
+TER     233      CYS A  76 
+ATOM    233  SG  CYS A  76       1.137  22.112  15.127  1.00  9.57           S  
+TER     234      CYS A  76 
+ATOM    234  N   ASN A  77       2.217  22.435  17.010  1.00 10.03           N  
+TER     235      ASN A  77 
+ATOM    235  O   ASN A  77      -0.060  21.017  17.756  1.00 11.83           O  
+TER     236      ASN A  77 
+ATOM    236  OD1 ASN A  77      -0.912  21.830  17.797  1.00 34.87           O  
+TER     237      ASN A  77 
+ATOM    237  ND2 ASN A  77       2.396  22.083  17.310  1.00 26.24           N  
+TER     238      ASN A  77 
+ATOM    238  N   ILE A  78       3.338  22.235  18.808  1.00  8.41           N  
+TER     239      ILE A  78 
+ATOM    239  O   ILE A  78       0.272  24.467  13.628  1.00 10.18           O  
+TER     240      ILE A  78 
+ATOM    240  N   PRO A  79       0.436  26.742  14.591  1.00  7.23           N  
+TER     241      PRO A  79 
+ATOM    241  O   PRO A  79      -2.596  28.274  14.462  1.00  8.04           O  
+TER     242      PRO A  79 
+ATOM    242  N   CYS A  80      -2.940  28.309  12.640  1.00  4.57           N  
+TER     243      CYS A  80 
+ATOM    243  O   CYS A  80      -2.968  30.667  14.570  1.00  8.20           O  
+TER     244      CYS A  80 
+ATOM    244  SG  CYS A  80      -2.050  30.748  12.796  1.00  6.51           S  
+TER     245      CYS A  80 
+ATOM    245  N   SER A  81      -4.149  30.457  13.232  1.00  5.14           N  
+TER     246      SER A  81 
+ATOM    246  O   SER A  81      -4.145  26.708  16.813  1.00  8.81           O  
+TER     247      SER A  81 
+ATOM    247  OG  SER A  81      -1.032  27.810  17.063  1.00 11.09           O  
+TER     248      SER A  81 
+ATOM    248  N   ALA A  82       0.281  28.263  16.282  1.00  6.67           N  
+TER     249      ALA A  82 
+ATOM    249  O   ALA A  82      -0.403  27.891  19.031  1.00  9.84           O  
+TER     250      ALA A  82 
+ATOM    250  N   LEU A  83       1.648  28.126  18.391  1.00  6.17           N  
+TER     251      LEU A  83 
+ATOM    251  O   LEU A  83       1.072  29.053  20.690  1.00  7.36           O  
+TER     252      LEU A  83 
+ATOM    252  N   LEU A  84      -0.129  32.178  19.374  1.00  4.78           N  
+TER     253      LEU A  84 
+ATOM    253  O   LEU A  84      -0.567  32.767  20.766  1.00  8.59           O  
+TER     254      LEU A  84 
+ATOM    254  N   SER A  85      -0.147  34.622  22.538  1.00  6.94           N  
+TER     255      SER A  85 
+ATOM    255  O   SER A  85      -0.006  36.847  20.862  1.00  9.99           O  
+TER     256      SER A  85 
+ATOM    256  OG  SER A  85      -0.084  36.656  24.436  1.00 13.72           O  
+TER     257      SER A  85 
+ATOM    257  N   SER A  86      -0.385  36.240  24.884  1.00  7.56           N  
+TER     258      SER A  86 
+ATOM    258  O   SER A  86      -0.831  37.791  26.285  1.00 13.12           O  
+TER     259      SER A  86 
+ATOM    259  OG  SER A  86      -1.896  39.011  24.572  1.00 15.99           O  
+TER     260      SER A  86 
+ATOM    260  N   ASP A  87      -0.030  39.037  25.012  1.00  8.10           N  
+TER     261      ASP A  87 
+ATOM    261  O   ASP A  87       0.052  39.020  22.564  1.00 10.26           O  
+TER     262      ASP A  87 
+ATOM    262  OD1 ASP A  87       2.403  40.330  21.899  1.00 18.36           O  
+TER     263      ASP A  87 
+ATOM    263  OD2 ASP A  87       1.299  40.817  21.913  1.00 27.25           O  
+TER     264      ASP A  87 
+ATOM    264  N   ILE A  88       0.414  41.049  21.306  1.00  7.20           N  
+TER     265      ILE A  88 
+ATOM    265  O   ILE A  88       2.556  39.601  19.716  1.00  9.00           O  
+TER     266      ILE A  88 
+ATOM    266  N   THR A  89       2.301  43.089  21.639  1.00  7.70           N  
+TER     267      THR A  89 
+ATOM    267  O   THR A  89       4.285  44.763  21.580  1.00  9.08           O  
+TER     268      THR A  89 
+ATOM    268  OG1 THR A  89       2.612  45.141  23.069  1.00 13.41           O  
+TER     269      THR A  89 
+ATOM    269  N   ALA A  90       2.739  44.855  23.499  1.00  6.57           N  
+TER     270      ALA A  90 
+ATOM    270  O   ALA A  90       3.295  45.333  20.856  1.00  6.76           O  
+TER     271      ALA A  90 
+ATOM    271  N   SER A  91       5.675  46.645  20.601  1.00  4.00           N  
+TER     272      SER A  91 
+ATOM    272  O   SER A  91       5.861  47.028  20.407  1.00  6.68           O  
+TER     273      SER A  91 
+ATOM    273  OG  SER A  91       5.886  48.892  20.135  1.00  6.92           O  
+TER     274      SER A  91 
+ATOM    274  N   VAL A  92       5.777  49.446  20.402  1.00  5.21           N  
+TER     275      VAL A  92 
+ATOM    275  O   VAL A  92       7.745  51.027  20.161  1.00  8.34           O  
+TER     276      VAL A  92 
+ATOM    276  N   ASN A  93       6.650  50.890  21.913  1.00  7.74           N  
+TER     277      ASN A  93 
+ATOM    277  O   ASN A  93       8.119  53.169  21.768  1.00  9.39           O  
+TER     278      ASN A  93 
+ATOM    278  OD1 ASN A  93       6.693  52.553  23.889  1.00 31.28           O  
+TER     279      ASN A  93 
+ATOM    279  ND2 ASN A  93       8.447  54.362  23.965  1.00 18.78           N  
+TER     280      ASN A  93 
+ATOM    280  N   CYS A  94       7.361  55.035  23.214  1.00  6.21           N  
+TER     281      CYS A  94 
+ATOM    281  O   CYS A  94       7.355  53.094  26.133  1.00  8.43           O  
+TER     282      CYS A  94 
+ATOM    282  SG  CYS A  94       7.305  56.136  25.381  1.00  9.57           S  
+TER     283      CYS A  94 
+ATOM    283  N   ALA A  95       7.179  56.766  24.592  1.00  4.53           N  
+TER     284      ALA A  95 
+ATOM    284  O   ALA A  95       8.258  50.767  19.002  1.00  6.50           O  
+TER     285      ALA A  95 
+ATOM    285  N   LYS A  96       8.250  53.705  18.779  1.00  4.81           N  
+TER     286      LYS A  96 
+ATOM    286  O   LYS A  96       6.203  54.829  17.816  1.00  8.02           O  
+TER     287      LYS A  96 
+ATOM    287  NZ  LYS A  96       9.174  55.390  17.128  1.00 16.62           N  
+TER     288      LYS A  96 
+ATOM    288  N   LYS A  97       9.439  53.493  18.228  1.00  6.35           N  
+TER     289      LYS A  97 
+ATOM    289  O   LYS A  97      10.710  53.030  20.255  1.00  8.46           O  
+TER     290      LYS A  97 
+ATOM    290  NZ  LYS A  97      11.509  54.108  16.868  1.00 50.44           N  
+TER     291      LYS A  97 
+ATOM    291  N   ILE A  98      13.570  54.853  16.152  1.00  5.79           N  
+TER     292      ILE A  98 
+ATOM    292  O   ILE A  98      14.207  55.357  18.461  1.00  7.64           O  
+TER     293      ILE A  98 
+ATOM    293  N   VAL A  99      13.322  55.164  20.953  1.00  5.05           N  
+TER     294      VAL A  99 
+ATOM    294  O   VAL A  99      15.110  52.883  20.557  1.00  9.43           O  
+TER     295      VAL A  99 
+ATOM    295  N   SER A 100      16.620  51.290  22.908  1.00  9.23           N  
+TER     296      SER A 100 
+ATOM    296  O   SER A 100      16.534  53.029  24.428  1.00 15.02           O  
+TER     297      SER A 100 
+ATOM    297  OG  SER A 100      14.399  53.706  23.416  1.00 17.61           O  
+TER     298      SER A 100 
+ATOM    298  N   ASP A 101      13.522  55.554  23.130  1.00 13.83           N  
+TER     299      ASP A 101 
+ATOM    299  O   ASP A 101      14.146  55.318  24.926  1.00 17.59           O  
+TER     300      ASP A 101 
+ATOM    300  OD1 ASP A 101      15.056  58.120  24.546  1.00 28.10           O  
+TER     301      ASP A 101 
+ATOM    301  OD2 ASP A 101      12.941  58.007  23.492  1.00 31.15           O  
+TER     302      ASP A 101 
+ATOM    302  N   GLY A 102      12.688  57.696  25.144  1.00 13.42           N  
+TER     303      GLY A 102 
+ATOM    303  O   GLY A 102      12.282  57.378  26.333  1.00 14.74           O  
+TER     304      GLY A 102 
+ATOM    304  N   ASN A 103      14.576  56.735  27.112  1.00  9.33           N  
+TER     305      ASN A 103 
+ATOM    305  O   ASN A 103       0.049   4.151   1.297  1.00  7.60           O  
+TER     306      ASN A 103 
+ATOM    306  OD1 ASN A 103       0.888   4.303   3.148  1.00 21.30           O  
+TER     307      ASN A 103 
+ATOM    307  ND2 ASN A 103       0.179   4.121   3.681  1.00 24.03           N  
+TER     308      ASN A 103 
+ATOM    308  N   GLY A 104      -0.755   3.619   3.940  1.00  4.51           N  
+TER     309      GLY A 104 
+ATOM    309  O   GLY A 104       2.275   4.055   5.406  1.00  5.36           O  
+TER     310      GLY A 104 
+ATOM    310  N   MET A 105       1.355   4.364   6.009  1.00  3.11           N  
+TER     311      MET A 105 
+ATOM    311  O   MET A 105       2.532   3.854   5.558  1.00  5.64           O  
+TER     312      MET A 105 
+ATOM    312  SD  MET A 105       1.168   6.589   3.908  1.00  8.32           S  
+TER     313      MET A 105 
+ATOM    313  N   ASN A 106      -0.925   8.059   3.971  1.00  4.40           N  
+TER     314      ASN A 106 
+ATOM    314  O   ASN A 106      -1.363   8.232   2.037  1.00  7.53           O  
+TER     315      ASN A 106 
+ATOM    315  OD1 ASN A 106      -1.430  10.591   3.931  1.00  9.85           O  
+TER     316      ASN A 106 
+ATOM    316  ND2 ASN A 106      -1.605  10.779   2.364  1.00  4.68           N  
+TER     317      ASN A 106 
+ATOM    317  N   ALA A 107      -0.150  10.355   1.381  1.00  5.08           N  
+TER     318      ALA A 107 
+ATOM    318  O   ALA A 107       0.697  10.581   2.043  1.00  7.82           O  
+TER     319      ALA A 107 
+ATOM    319  N   TRP A 108      -3.531  11.668   2.003  1.00  5.03           N  
+TER     320      TRP A 108 
+ATOM    320  O   TRP A 108      -0.439   7.998   6.199  1.00  7.23           O  
+TER     321      TRP A 108 
+ATOM    321  NE1 TRP A 108      -0.787   9.870   7.954  1.00  6.36           N  
+TER     322      TRP A 108 
+ATOM    322  N   VAL A 109       2.850  12.077  10.976  1.00  6.02           N  
+TER     323      VAL A 109 
+ATOM    323  O   VAL A 109       1.223  12.103  13.196  1.00  9.03           O  
+TER     324      VAL A 109 
+ATOM    324  N   ALA A 110      -0.337   9.966  10.310  1.00  5.54           N  
+TER     325      ALA A 110 
+ATOM    325  O   ALA A 110       0.237  12.367   5.919  1.00  6.32           O  
+TER     326      ALA A 110 
+ATOM    326  N   TRP A 111      -0.430  12.175   8.463  1.00  4.60           N  
+TER     327      TRP A 111 
+ATOM    327  O   TRP A 111       0.550  14.692   6.830  1.00  6.84           O  
+TER     328      TRP A 111 
+ATOM    328  NE1 TRP A 111      -3.665  13.247   7.428  1.00  5.96           N  
+TER     329      TRP A 111 
+ATOM    329  N   ARG A 112      -3.269  17.891   5.458  1.00  5.60           N  
+TER     330      ARG A 112 
+ATOM    330  O   ARG A 112      -0.511  14.058  10.038  1.00  9.75           O  
+TER     331      ARG A 112 
+ATOM    331  NE  ARG A 112       0.252  16.198  11.334  1.00 23.53           N  
+TER     332      ARG A 112 
+ATOM    332  NH1 ARG A 112       1.369  14.633  11.676  1.00 21.83           N  
+TER     333      ARG A 112 
+ATOM    333  NH2 ARG A 112       1.183  15.879  11.171  1.00 23.80           N  
+TER     334      ARG A 112 
+ATOM    334  N   ASN A 113       2.330  16.201  13.110  1.00  6.56           N  
+TER     335      ASN A 113 
+ATOM    335  O   ASN A 113       0.481  15.494  13.920  1.00  8.32           O  
+TER     336      ASN A 113 
+ATOM    336  OD1 ASN A 113       3.089  15.666  15.448  1.00  6.23           O  
+TER     337      ASN A 113 
+ATOM    337  ND2 ASN A 113       3.812  17.078  15.154  1.00  6.83           N  
+TER     338      ASN A 113 
+ATOM    338  N   ARG A 114       2.800  17.881  10.674  1.00  6.42           N  
+TER     339      ARG A 114 
+ATOM    339  O   ARG A 114      -0.248  18.229  12.140  1.00  9.55           O  
+TER     340      ARG A 114 
+ATOM    340  NE  ARG A 114      -1.140  20.456   9.588  1.00  6.16           N  
+TER     341      ARG A 114 
+ATOM    341  NH1 ARG A 114      -2.138  22.275  10.625  1.00  7.01           N  
+TER     342      ARG A 114 
+ATOM    342  NH2 ARG A 114      -1.159  23.043  11.090  1.00  9.92           N  
+TER     343      ARG A 114 
+ATOM    343  N   CYS A 115      -2.171  22.666  11.483  1.00  4.52           N  
+TER     344      CYS A 115 
+ATOM    344  O   CYS A 115      -2.433  24.535  10.483  1.00  6.82           O  
+TER     345      CYS A 115 
+ATOM    345  SG  CYS A 115       0.235  26.651  10.442  1.00  6.24           S  
+TER     346      CYS A 115 
+ATOM    346  N   LYS A 116      -0.143  25.485   9.670  1.00  5.26           N  
+TER     347      LYS A 116 
+ATOM    347  O   LYS A 116       1.990  24.056   8.975  1.00  8.90           O  
+TER     348      LYS A 116 
+ATOM    348  NZ  LYS A 116      -0.340  20.029  13.789  1.00  8.60           N  
+TER     349      LYS A 116 
+ATOM    349  N   GLY A 117      -1.072  21.767  13.351  1.00  7.53           N  
+TER     350      GLY A 117 
+ATOM    350  O   GLY A 117       0.175  22.239  15.055  1.00 13.68           O  
+TER     351      GLY A 117 
+ATOM    351  N   THR A 118      -0.811  21.888  15.593  1.00  7.92           N  
+TER     352      THR A 118 
+ATOM    352  O   THR A 118       2.230  22.436  17.035  1.00 10.52           O  
+TER     353      THR A 118 
+ATOM    353  OG1 THR A 118       1.365  22.110  17.766  1.00  7.17           O  
+TER     354      THR A 118 
+ATOM    354  N   ASP A 119      -0.246  22.466  18.795  1.00  9.68           N  
+TER     355      ASP A 119 
+ATOM    355  O   ASP A 119       2.378  22.070  17.352  1.00 12.61           O  
+TER     356      ASP A 119 
+ATOM    356  OD1 ASP A 119       2.267  23.983  14.469  1.00 25.86           O  
+TER     357      ASP A 119 
+ATOM    357  OD2 ASP A 119       0.302  24.459  13.644  1.00 33.27           O  
+TER     358      ASP A 119 
+ATOM    358  N   VAL A 120       1.088  24.745  15.277  1.00  8.73           N  
+TER     359      VAL A 120 
+ATOM    359  O   VAL A 120      -0.446  26.595  14.842  1.00  9.72           O  
+TER     360      VAL A 120 
+ATOM    360  N   GLN A 121      -2.581  28.264  14.431  1.00  8.89           N  
+TER     361      GLN A 121 
+ATOM    361  O   GLN A 121      -0.814  28.709  13.617  1.00 11.64           O  
+TER     362      GLN A 121 
+ATOM    362  OE1 GLN A 121      -2.990  30.649  14.534  0.49 44.63           O  
+TER     363      GLN A 121 
+ATOM    363  NE2 GLN A 121      -3.006  30.588  13.038  0.49 39.32           N  
+TER     364      GLN A 121 
+ATOM    364  N   ALA A 122      -2.078  30.709  12.766  1.00  9.57           N  
+TER     365      ALA A 122 
+ATOM    365  O   ALA A 122      -4.198  30.354  11.821  1.00 11.29           O  
+TER     366      ALA A 122 
+ATOM    366  N   TRP A 123      -0.418  26.103  17.669  1.00  9.09           N  
+TER     367      TRP A 123 
+ATOM    367  O   TRP A 123       0.744  28.443  18.361  1.00 12.38           O  
+TER     368      TRP A 123 
+ATOM    368  NE1 TRP A 123       2.584  28.426  20.439  1.00  9.23           N  
+TER     369      TRP A 123 
+ATOM    369  N   ILE A 124       0.158  30.220  20.151  1.00  9.19           N  
+TER     370      ILE A 124 
+ATOM    370  O   ILE A 124       1.186  32.581  18.675  1.00 13.41           O  
+TER     371      ILE A 124 
+ATOM    371  N   ARG A 125       0.330  34.831  22.139  1.00 11.29           N  
+TER     372      ARG A 125 
+ATOM    372  O   ARG A 125       0.590  36.357  21.979  1.00 16.05           O  
+TER     373      ARG A 125 
+ATOM    373  NE  ARG A 125      -0.401  36.239  24.880  0.63 33.47           N  
+TER     374      ARG A 125 
+ATOM    374  NH1 ARG A 125      -1.197  37.887  25.204  0.63 29.50           N  
+TER     375      ARG A 125 
+ATOM    375  NH2 ARG A 125      -0.853  37.794  26.268  0.63 36.10           N  
+TER     376      ARG A 125 
+ATOM    376  N   GLY A 126      -0.636  38.053  25.042  1.00 13.73           N  
+TER     377      GLY A 126 
+ATOM    377  O   GLY A 126       0.941  39.977  24.668  1.00 18.38           O  
+TER     378      GLY A 126 
+ATOM    378  N   CYS A 127      -0.549  38.592  23.083  1.00 12.29           N  
+TER     379      CYS A 127 
+ATOM    379  O   CYS A 127       1.350  38.469  22.525  1.00 13.64           O  
+TER     380      CYS A 127 
+ATOM    380  SG  CYS A 127       1.291  40.805  21.883  1.00 13.69           S  
+TER     381      CYS A 127 
+ATOM    381  N   ARG A 128       0.403  41.043  21.290  1.00 12.34           N  
+TER     382      ARG A 128 
+ATOM    382  O   ARG A 128       2.553  39.591  19.703  1.00 20.20           O  
+TER     383      ARG A 128 
+ATOM    383  NE  ARG A 128       3.834  42.567  21.460  1.00 41.08           N  
+TER     384      ARG A 128 
+ATOM    384  NH1 ARG A 128       1.185  43.291  21.442  1.00 43.71           N  
+TER     385      ARG A 128 
+ATOM    385  NH2 ARG A 128       3.420  42.803  21.241  1.00 40.97           N  
+TER     386      ARG A 128 
+ATOM    386  N   LEU A 129       4.282  44.756  21.574  1.00 14.25           N  
+TER     387      LEU A 129 
+ATOM    387  O   LEU A 129       3.527  44.594  23.582  1.00 29.67           O  
+TER     388      LEU A 129 
+ATOM    388  OXT LEU A 129       4.734  44.594  20.536  1.00 30.76           O  
+TER     389      LEU A 129 
+ATOM    389  I   IOD B1130       5.677  46.639  20.599  0.36 27.85           I  
+TER     390      IOD B1130 
+ATOM    390  I   IOD C1131       4.748  47.189  20.937  0.25 14.19           I  
+TER     391      IOD C1131 
+ATOM    391  I   IOD D1132       3.972  47.356  19.965  0.18 13.21           I  
+TER     392      IOD D1132 
+ATOM    392  I   IOD E1133       5.862  47.014  20.399  0.20 19.80           I  
+TER     393      IOD E1133 
+ATOM    393  O1  EDO F1134       5.882  48.879  20.135  1.00 20.74           O  
+TER     394      EDO F1134 
+ATOM    394  O2  EDO F1134       4.708  49.558  19.986  1.00 15.98           O  
+TER     395      EDO F1134 
+ATOM    395  O   CMO G1135       7.747  51.013  20.170  1.00 17.79           O  
+TER     396      CMO G1135 
+ATOM    396  O1  EDO H1136       6.185  51.262  21.668  1.00 29.39           O  
+TER     397      EDO H1136 
+ATOM    397  O2  EDO H1136       6.672  50.867  21.911  1.00 34.69           O  
+TER     398      EDO H1136 
+ATOM    398  NA   NA P1144       7.390  55.009  23.250  1.00  9.64           N  
+TER     399       NA P1144 
+ATOM    399  NA   NA Q1145       7.350  54.802  25.225  1.00 11.50           N  
+TER     400       NA Q1145 
+ATOM    400  NA   NA R1146       7.331  54.030  26.274  1.00 16.22           N  
+TER     401       NA R1146 
+ATOM    401  I   IOD S1147       7.388  53.033  26.147  0.23 25.55           I  
+TER     402      IOD S1147 
+ATOM    402  O   HOH T2001       7.490  54.421  27.204  1.00 13.42           O  
+TER     403      HOH T2001 
+ATOM    403  O   HOH T2002       7.342  56.083  25.426  1.00 23.31           O  
+TER     404      HOH T2002 
+ATOM    404  O   HOH T2003       7.212  56.718  24.643  1.00 12.90           O  
+TER     405      HOH T2003 
+ATOM    405  O   HOH T2004       7.160  56.448  26.366  1.00 18.98           O  
+TER     406      HOH T2004 
+ATOM    406  O   HOH T2005       7.166  51.534  19.274  1.00 11.51           O  
+TER     407      HOH T2005 
+ATOM    407  O   HOH T2006       8.258  50.758  19.001  1.00 25.25           O  
+TER     408      HOH T2006 
+ATOM    408  O   HOH T2007       9.182  52.811  18.830  1.00 37.84           O  
+TER     409      HOH T2007 
+ATOM    409  O   HOH T2008       8.248  53.697  18.794  1.00 13.78           O  
+TER     410      HOH T2008 
+ATOM    410  O   HOH T2009       7.090  54.123  19.780  1.00  8.68           O  
+TER     411      HOH T2009 
+ATOM    411  O   HOH T2010       6.909  53.179  18.437  1.00 13.36           O  
+TER     412      HOH T2010 
+ATOM    412  O   HOH T2011       6.199  54.820  17.829  1.00 24.24           O  
+TER     413      HOH T2011 
+ATOM    413  O   HOH T2012       7.457  55.749  18.074  1.00 28.41           O  
+TER     414      HOH T2012 
+ATOM    414  O   HOH T2013       6.944  54.513  16.807  1.00 19.08           O  
+TER     415      HOH T2013 
+ATOM    415  O   HOH T2014       7.234  54.936  18.011  1.00 18.68           O  
+TER     416      HOH T2014 
+ATOM    416  O   HOH T2015       8.967  55.532  18.898  1.00 31.44           O  
+TER     417      HOH T2015 
+ATOM    417  O   HOH T2016       9.179  55.379  17.132  0.50 22.86           O  
+TER     418      HOH T2016 
+ATOM    418  O   HOH T2017       9.435  53.484  18.232  1.00 26.27           O  
+TER     419      HOH T2017 
+ATOM    419  O   HOH T2018       9.414  53.020  17.263  1.00 20.34           O  
+TER     420      HOH T2018 
+ATOM    420  O   HOH T2019       9.600  53.415  19.086  1.00  6.88           O  
+TER     421      HOH T2019 
+ATOM    421  O   HOH T2020      10.707  53.033  20.261  1.00 22.21           O  
+TER     422      HOH T2020 
+ATOM    422  O   HOH T2021      10.641  53.776  18.527  1.00 26.00           O  
+TER     423      HOH T2021 
+ATOM    423  O   HOH T2022      11.886  54.233  17.153  1.00 11.65           O  
+TER     424      HOH T2022 
+ATOM    424  O   HOH T2023      12.078  55.284  17.081  1.00 21.30           O  
+TER     425      HOH T2023 
+ATOM    425  O   HOH T2024      11.800  53.641  16.439  1.00 20.84           O  
+TER     426      HOH T2024 
+ATOM    426  O   HOH T2025      11.506  54.086  16.861  1.00 18.21           O  
+TER     427      HOH T2025 
+ATOM    427  O   HOH T2026      13.570  54.831  16.144  1.00 28.49           O  
+TER     428      HOH T2026 
+ATOM    428  O   HOH T2027      13.917  53.079  16.499  1.00 28.60           O  
+TER     429      HOH T2027 
+ATOM    429  O   HOH T2028      13.777  54.280  18.235  1.00 11.53           O  
+TER     430      HOH T2028 
+ATOM    430  O   HOH T2029      14.205  55.347  18.448  1.00 26.35           O  
+TER     431      HOH T2029 
+ATOM    431  O   HOH T2030      14.281  53.809  18.296  1.00  7.60           O  
+TER     432      HOH T2030 
+ATOM    432  O   HOH T2031      15.186  53.623  19.181  1.00 21.13           O  
+TER     433      HOH T2031 
+ATOM    433  O   HOH T2032      13.195  52.552  19.205  1.00 21.51           O  
+TER     434      HOH T2032 
+ATOM    434  O   HOH T2033      13.394  54.209  20.612  1.00 33.68           O  
+TER     435      HOH T2033 
+ATOM    435  O   HOH T2034      13.311  55.178  20.933  1.00 20.08           O  
+TER     436      HOH T2034 
+ATOM    436  O   HOH T2035      12.609  53.658  21.471  1.00 10.07           O  
+TER     437      HOH T2035 
+ATOM    437  O   HOH T2036      14.201  52.517  21.191  1.00  8.54           O  
+TER     438      HOH T2036 
+ATOM    438  O   HOH T2037      15.068  52.845  20.589  1.00 24.56           O  
+TER     439      HOH T2037 
+ATOM    439  O   HOH T2038      15.916  51.710  20.685  1.00 19.32           O  
+TER     440      HOH T2038 
+ATOM    440  O   HOH T2039      14.537  52.009  22.544  1.00 17.11           O  
+TER     441      HOH T2039 
+ATOM    441  O   HOH T2040      15.561  51.561  22.474  1.00 24.81           O  
+TER     442      HOH T2040 
+ATOM    442  O   HOH T2041      16.552  51.296  22.950  1.00  4.86           O  
+TER     443      HOH T2041 
+ATOM    443  O   HOH T2042      14.843  53.269  23.400  1.00 15.03           O  
+TER     444      HOH T2042 
+ATOM    444  O   HOH T2043      15.567  53.820  23.218  1.00 13.76           O  
+TER     445      HOH T2043 
+ATOM    445  O   HOH T2044      16.489  53.036  24.460  1.00 35.22           O  
+TER     446      HOH T2044 
+ATOM    446  O   HOH T2045      15.467  54.061  22.876  1.00 25.74           O  
+TER     447      HOH T2045 
+ATOM    447  O   HOH T2046      14.363  53.738  23.417  1.00 36.11           O  
+TER     448      HOH T2046 
+ATOM    448  O   HOH T2047      13.473  55.564  23.126  1.00 25.60           O  
+TER     449      HOH T2047 
+ATOM    449  O   HOH T2048      14.578  56.273  22.310  1.00 11.99           O  
+TER     450      HOH T2048 
+ATOM    450  O   HOH T2049      15.179  56.025  24.301  1.00 41.52           O  
+TER     451      HOH T2049 
+ATOM    451  O   HOH T2050      14.127  55.360  24.912  1.00 12.28           O  
+TER     452      HOH T2050 
+ATOM    452  O   HOH T2051      13.675  57.402  24.816  1.00  9.59           O  
+TER     453      HOH T2051 
+ATOM    453  O   HOH T2052      14.254  57.902  24.309  1.00 19.62           O  
+TER     454      HOH T2052 
+ATOM    454  O   HOH T2053      15.079  58.176  24.509  1.00  5.55           O  
+TER     455      HOH T2053 
+ATOM    455  O   HOH T2054      12.968  58.059  23.453  1.00 17.59           O  
+TER     456      HOH T2054 
+ATOM    456  O   HOH T2055      12.723  57.776  25.102  1.00 29.91           O  
+TER     457      HOH T2055 
+ATOM    457  O   HOH T2056      12.146  59.552  24.800  1.00 12.88           O  
+TER     458      HOH T2056 
+ATOM    458  O   HOH T2057      13.164  60.034  24.591  1.00 28.50           O  
+TER     459      HOH T2057 
+ATOM    459  O   HOH T2058      12.361  57.407  26.320  1.00 15.15           O  
+TER     460      HOH T2058 
+ATOM    460  O   HOH T2059      14.566  56.787  27.099  1.00 24.69           O  
+TER     461      HOH T2059 
+ATOM    461  O   HOH T2060      13.802  57.980  26.715  0.50 17.38           O  
+TER     462      HOH T2060 
+ATOM    462  O   HOH T2061      15.608   3.746   1.797  1.00 23.18           O  
+TER     463      HOH T2061 
+ATOM    463  O   HOH T2062       0.049   4.164   1.310  1.00 28.41           O  
+TER     464      HOH T2062 
+ATOM    464  O   HOH T2063      -0.731   2.748   1.841  1.00 25.91           O  
+TER     465      HOH T2063 
+ATOM    465  O   HOH T2064      -0.101   3.923   1.262  1.00 35.00           O  
+TER     466      HOH T2064 
+ATOM    466  O   HOH T2065       0.888   4.316   3.162  1.00 15.34           O  
+TER     467      HOH T2065 
+ATOM    467  O   HOH T2066       0.180   4.136   3.696  1.00 18.00           O  
+TER     468      HOH T2066 
+ATOM    468  O   HOH T2067      -0.753   3.636   3.955  1.00 15.94           O  
+TER     469      HOH T2067 
+ATOM    469  O   HOH T2068       1.321   2.554   3.939  1.00 11.45           O  
+TER     470      HOH T2068 
+ATOM    470  O   HOH T2069       1.191   3.867   3.485  1.00 16.16           O  
+TER     471      HOH T2069 
+ATOM    471  O   HOH T2070       2.277   4.077   5.419  1.00 11.00           O  
+TER     472      HOH T2070 
+ATOM    472  O   HOH T2071       1.359   4.385   6.026  1.00  5.72           O  
+TER     473      HOH T2071 
+ATOM    473  O   HOH T2072       0.341   4.138   6.036  1.00 14.01           O  
+TER     474      HOH T2072 
+ATOM    474  O   HOH T2073       2.523   4.425   7.004  1.00 19.18           O  
+TER     475      HOH T2073 
+ATOM    475  O   HOH T2074       2.541   3.884   5.562  1.00 11.83           O  
+TER     476      HOH T2074 
+ATOM    476  O   HOH T2075       3.378   5.834   3.085  1.00  8.34           O  
+TER     477      HOH T2075 
+ATOM    477  O   HOH T2076       0.382   6.305   2.265  1.00 17.36           O  
+TER     478      HOH T2076 
+ATOM    478  O   HOH T2077       1.172   6.603   3.915  1.00 18.45           O  
+TER     479      HOH T2077 
+ATOM    479  O   HOH T2078      -0.334   6.150   4.592  1.00 13.91           O  
+TER     480      HOH T2078 
+ATOM    480  O   HOH T2079      -0.930   8.073   3.981  1.00 22.33           O  
+TER     481      HOH T2079 
+ATOM    481  O   HOH T2080      -0.273   8.401   3.623  1.00 19.88           O  
+TER     482      HOH T2080 
+ATOM    482  O   HOH T2081       0.703   8.646   3.048  1.00 22.71           O  
+TER     483      HOH T2081 
+ATOM    483  O   HOH T2082      -1.365   8.250   2.045  1.00 11.42           O  
+TER     484      HOH T2082 
+ATOM    484  O   HOH T2083      -1.205   8.283   3.395  1.00 15.76           O  
+TER     485      HOH T2083 
+ATOM    485  O   HOH T2084      -2.333  10.185   2.956  1.00 27.54           O  
+TER     486      HOH T2084 
+ATOM    486  O   HOH T2085      -1.430  10.606   3.945  1.00 19.19           O  
+TER     487      HOH T2085 
+ATOM    487  O   HOH T2086      -1.608  10.800   2.376  1.00 32.61           O  
+TER     488      HOH T2086 
+ATOM    488  O   HOH T2087      -0.153  10.381   1.390  1.00 30.16           O  
+TER     489      HOH T2087 
+ATOM    489  O   HOH T2088       0.048  11.879   2.288  1.00 24.01           O  
+TER     490      HOH T2088 
+ATOM    490  O   HOH T2089      -0.274  10.607   3.029  1.00 24.45           O  
+TER     491      HOH T2089 
+ATOM    491  O   HOH T2090       0.698  10.595   2.053  1.00 17.66           O  
+TER     492      HOH T2090 
+ATOM    492  O   HOH T2091      -2.594  10.197   2.452  1.00  5.84           O  
+TER     493      HOH T2091 
+ATOM    493  O   HOH T2092      -3.527  11.682   2.016  1.00  8.58           O  
+TER     494      HOH T2092 
+ATOM    494  O   HOH T2093      -2.667  10.209   1.045  1.00 24.68           O  
+TER     495      HOH T2093 
+ATOM    495  O   HOH T2094      -2.442   8.576   5.430  1.00 14.39           O  
+TER     496      HOH T2094 
+ATOM    496  O   HOH T2095      -0.441   8.008   6.211  1.00 16.36           O  
+TER     497      HOH T2095 
+ATOM    497  O   HOH T2096      -1.209   9.667   5.765  1.00 28.56           O  
+TER     498      HOH T2096 
+ATOM    498  O   HOH T2097       0.253  10.081   5.065  1.00 12.36           O  
+TER     499      HOH T2097 
+ATOM    499  O   HOH T2098       0.852  10.374   7.048  1.00 19.50           O  
+TER     500      HOH T2098 
+ATOM    500  O   HOH T2099       0.167  10.138   7.526  1.00 13.04           O  
+TER     501      HOH T2099 
+ATOM    501  O   HOH T2100      -0.784   9.886   7.958  1.00 24.22           O  
+TER     502      HOH T2100 
+ATOM    502  O   HOH T2101       1.305   8.802   8.048  1.00 22.98           O  
+TER     503      HOH T2101 
+ATOM    503  O   HOH T2102       1.240  10.117   7.487  1.00  7.65           O  
+TER     504      HOH T2102 
+ATOM    504  O   HOH T2103       2.261  10.479   9.354  1.00 18.91           O  
+TER     505      HOH T2103 
+ATOM      1  N   LYS A   1       7.000   9.000  45.000  1.00  5.98           N  
+TER       2      LYS A   1 
+ATOM      2  O   LYS A   1      95.000  93.000  14.000  1.00  8.80           O  
+TER       3      LYS A   1 
+ATOM      3  NZ  LYS A   1       0.445   0.510   0.004  1.00 28.53           N  
+TER       4      LYS A   1 
+ATOM      4  N   VAL A   2       0.863   0.563   0.737  1.00  5.99           N  
+TER       5      VAL A   2 
+ATOM      5  O   VAL A   2       8.236   4.189   5.306  1.00  9.81           O  
+TER       6      VAL A   2 
+ATOM      6  N   PHE A   3      19.246  13.390  54.230  1.00  6.45           N  
+TER       7      PHE A   3 
+ATOM      7  O   PHE A   3      21.532  14.066  52.452  1.00  9.70           O  
+TER       8      PHE A   3 
+ATOM      8  N   GLY A   4      23.399  16.261  53.092  1.00  8.36           N  
+TER       9      GLY A   4 
+ATOM      9  O   GLY A   4      23.428  13.242  55.614  1.00  9.18           O  
+TER      10      GLY A   4 
+ATOM     10  N   ARG A   5      23.113  14.502  56.237  1.00  8.02           N  
+TER      11      ARG A   5 
+ATOM     11  O   ARG A   5      24.869  13.521  57.541  1.00 10.08           O  
+TER      12      ARG A   5 
+ATOM     12  NE  ARG A   5      23.251  12.907  58.158  1.00 12.25           N  
+TER      13      ARG A   5 
+ATOM     13  NH1 ARG A   5      24.546  13.454  60.348  1.00 11.43           N  
+TER      14      ARG A   5 
+ATOM     14  NH2 ARG A   5      24.304  12.709  57.573  1.00 19.07           N  
+TER      15      ARG A   5 
+ATOM     15  N   CYS A   6      26.237  14.521  57.088  1.00  8.60           N  
+TER      16      CYS A   6 
+ATOM     16  O   CYS A   6       1.871   0.047   4.207  1.00  9.18           O  
+TER      17      CYS A   6 
+ATOM     17  SG  CYS A   6       1.928  -0.100   3.970  1.00 13.32           S  
+TER      18      CYS A   6 
+ATOM     18  N   GLU A   7       1.330   0.882   4.383  1.00  6.12           N  
+TER      19      GLU A   7 
+ATOM     19  O   GLU A   7       4.022   1.331   2.633  1.00  7.31           O  
+TER      20      GLU A   7 
+ATOM     20  OE1 GLU A   7       6.092   0.369   4.278  1.00 14.72           O  
+TER      21      GLU A   7 
+ATOM     21  OE2 GLU A   7       6.080   2.555   4.585  1.00 13.92           O  
+TER      22      GLU A   7 
+ATOM     22  N   LEU A   8       7.042   2.581   4.031  1.00  4.76           N  
+TER      23      LEU A   8 
+ATOM     23  O   LEU A   8       2.315   1.177   6.674  1.00  7.44           O  
+TER      24      LEU A   8 
+ATOM     24  N   ALA A   9       3.075  -1.385   8.304  1.00  5.84           N  
+TER      25      ALA A   9 
+ATOM     25  O   ALA A   9       2.972  -1.450  10.672  1.00  8.26           O  
+TER      26      ALA A   9 
+ATOM     26  N   ALA A  10       2.384  -0.174  10.422  1.00  6.49           N  
+TER      27      ALA A  10 
+ATOM     27  O   ALA A  10       3.042   0.676  10.651  1.00  8.70           O  
+TER      28      ALA A  10 
+ATOM     28  N   ALA A  11       2.480  -3.548  11.737  1.00  7.06           N  
+TER      29      ALA A  11 
+ATOM     29  O   ALA A  11       5.452  -0.449   8.073  1.00  9.61           O  
+TER      30      ALA A  11 
+ATOM     30  N   MET A  12       5.778   0.236  10.170  1.00  5.70           N  
+TER      31      MET A  12 
+ATOM     31  O   MET A  12       7.543  -0.792   9.965  1.00  9.63           O  
+TER      32      MET A  12 
+ATOM     32  SD  MET A  12       7.510   2.252  10.524  1.00  8.60           S  
+TER      33      MET A  12 
+ATOM     33  N   LYS A  13       9.761   2.151  11.962  1.00  8.93           N  
+TER      34      LYS A  13 
+ATOM     34  O   LYS A  13      11.373   2.828  11.511  1.00 14.29           O  
+TER      35      LYS A  13 
+ATOM     35  NZ  LYS A  13      12.368  -0.346   9.998  1.00 45.34           N  
+TER      36      LYS A  13 
+ATOM     36  N   ARG A  14      10.325   0.358   9.211  1.00 11.40           N  
+TER      37      ARG A  14 
+ATOM     37  O   ARG A  14       5.953   0.904  12.739  1.00 15.05           O  
+TER      38      ARG A  14 
+ATOM     38  NE  ARG A  14       7.404   0.539  14.820  1.00 30.17           N  
+TER      39      ARG A  14 
+ATOM     39  NH1 ARG A  14       5.785  -1.294  14.487  1.00 34.53           N  
+TER      40      ARG A  14 
+ATOM     40  NH2 ARG A  14       7.144  -2.938  15.002  1.00 29.09           N  
+TER      41      ARG A  14 
+ATOM     41  N   HIS A  15       8.063  -3.218  14.793  1.00 10.79           N  
+TER      42      HIS A  15 
+ATOM     42  O   HIS A  15       6.611  -1.257  16.850  1.00 13.55           O  
+TER      43      HIS A  15 
+ATOM     43  ND1 HIS A  15       5.460  -2.044  16.934  1.00 17.29           N  
+TER      44      HIS A  15 
+ATOM     44  NE2 HIS A  15       4.524  -1.820  14.725  1.00 17.22           N  
+TER      45      HIS A  15 
+ATOM     45  N   GLY A  16       9.188  -0.599  14.185  1.00 11.03           N  
+TER      46      GLY A  16 
+ATOM     46  O   GLY A  16       8.828   0.778  16.398  1.00 11.36           O  
+TER      47      GLY A  16 
+ATOM     47  N   LEU A  17      10.855   0.198  16.231  1.00 10.20           N  
+TER      48      LEU A  17 
+ATOM     48  O   LEU A  17      11.741   1.091  15.854  1.00 13.58           O  
+TER      49      LEU A  17 
+ATOM     49  N   ASP A  18      13.939   2.512  14.386  1.00 12.48           N  
+TER      50      ASP A  18 
+ATOM     50  O   ASP A  18      15.434   3.832  17.191  1.00 15.82           O  
+TER      51      ASP A  18 
+ATOM     51  OD1 ASP A  18       9.894   1.200  18.691  1.00 30.30           O  
+TER      52      ASP A  18 
+ATOM     52  OD2 ASP A  18      11.575  -0.272  18.246  1.00 28.37           O  
+TER      53      ASP A  18 
+ATOM     53  N   ASN A  19      12.224  -0.904  20.148  1.00 12.24           N  
+TER      54      ASN A  19 
+ATOM     54  O   ASN A  19      10.820  -1.191  20.518  1.00 10.91           O  
+TER      55      ASN A  19 
+ATOM     55  OD1 ASN A  19      10.855  -1.146  23.128  1.00 36.22           O  
+TER      56      ASN A  19 
+ATOM     56  ND2 ASN A  19      11.583  -1.968  22.776  1.00 30.01           N  
+TER      57      ASN A  19 
+ATOM     57  N   TYR A  20      12.208  -2.776  24.449  1.00  8.42           N  
+TER      58      TYR A  20 
+ATOM     58  O   TYR A  20      10.583  -0.514  25.680  1.00  9.05           O  
+TER      59      TYR A  20 
+ATOM     59  OH  TYR A  20       8.983   1.141  23.237  1.00 15.26           O  
+TER      60      TYR A  20 
+ATOM     60  N   ARG A  21      10.188  -0.206  20.612  1.00  8.26           N  
+TER      61      ARG A  21 
+ATOM     61  O   ARG A  21      13.486   0.436  22.171  1.00 10.08           O  
+TER      62      ARG A  21 
+ATOM     62  NE  ARG A  21      15.764   1.317  20.795  1.00 39.46           N  
+TER      63      ARG A  21 
+ATOM     63  NH1 ARG A  21      15.379   2.317  22.451  1.00 39.07           N  
+TER      64      ARG A  21 
+ATOM     64  NH2 ARG A  21      17.190   1.217  23.530  1.00 29.74           N  
+TER      65      ARG A  21 
+ATOM     65  N   GLY A  22      17.162   1.367  22.155  1.00  7.61           N  
+TER      66      GLY A  22 
+ATOM     66  O   GLY A  22      18.885  -0.115  22.658  1.00 10.36           O  
+TER      67      GLY A  22 
+ATOM     67  N   TYR A  23      17.331  -0.940  21.841  1.00  5.79           N  
+TER      68      TYR A  23 
+ATOM     68  O   TYR A  23      19.060   2.278  20.761  1.00  8.07           O  
+TER      69      TYR A  23 
+ATOM     69  OH  TYR A  23      14.441  -1.608  26.246  1.00  6.89           O  
+TER      70      TYR A  23 
+ATOM     70  N   SER A  24      13.446  -1.553  26.315  1.00  6.90           N  
+TER      71      SER A  24 
+ATOM     71  O   SER A  24      15.263  -1.803  28.589  1.00  8.65           O  
+TER      72      SER A  24 
+ATOM     72  OG  SER A  24      13.444  -2.946  28.149  1.00 13.64           O  
+TER      73      SER A  24 
+ATOM     73  N   LEU A  25      12.448  -2.849  28.176  1.00  6.91           N  
+TER      74      LEU A  25 
+ATOM     74  O   LEU A  25      14.330  -3.128  30.503  1.00  8.29           O  
+TER      75      LEU A  25 
+ATOM     75  N   GLY A  26      11.623  -4.277  26.753  1.00  5.38           N  
+TER      76      GLY A  26 
+ATOM     76  O   GLY A  26      16.933   0.353  28.244  1.00  7.29           O  
+TER      77      GLY A  26 
+ATOM     77  N   ASN A  27      16.164   0.858  28.444  1.00  4.80           N  
+TER      78      ASN A  27 
+ATOM     78  O   ASN A  27      18.937   1.743  26.722  1.00  5.46           O  
+TER      79      ASN A  27 
+ATOM     79  OD1 ASN A  27      20.384   1.934  28.136  1.00 10.10           O  
+TER      80      ASN A  27 
+ATOM     80  ND2 ASN A  27      21.198   0.992  28.826  1.00  2.39           N  
+TER      81      ASN A  27 
+ATOM     81  N   TRP A  28      20.710   3.019  29.979  1.00  3.66           N  
+TER      82      TRP A  28 
+ATOM     82  O   TRP A  28      19.224   0.276  30.209  1.00  4.58           O  
+TER      83      TRP A  28 
+ATOM     83  NE1 TRP A  28      20.694   0.027  31.994  1.00  5.97           N  
+TER      84      TRP A  28 
+ATOM     84  N   VAL A  29      22.840   0.600  36.322  1.00  2.57           N  
+TER      85      VAL A  29 
+ATOM     85  O   VAL A  29      22.999  -0.130  36.640  1.00  5.31           O  
+TER      86      VAL A  29 
+ATOM     86  N   CYS A  30      25.081  -0.981  37.800  1.00  2.29           N  
+TER      87      CYS A  30 
+ATOM     87  O   CYS A  30      24.449  -0.171  39.058  1.00  4.00           O  
+TER      88      CYS A  30 
+ATOM     88  SG  CYS A  30      24.529  -0.686  38.566  1.00  6.23           S  
+TER      89      CYS A  30 
+ATOM     89  N   ALA A  31      22.988  -0.015  38.966  1.00  3.14           N  
+TER      90      ALA A  31 
+ATOM     90  O   ALA A  31      22.526   2.362  40.284  1.00  6.03           O  
+TER      91      ALA A  31 
+ATOM     91  N   ALA A  32      21.756   0.358  40.995  1.00  4.55           N  
+TER      92      ALA A  32 
+ATOM     92  O   ALA A  32      19.731   2.537  39.524  1.00  6.68           O  
+TER      93      ALA A  32 
+ATOM     93  N   LYS A  33      19.169   1.697  41.100  1.00  3.58           N  
+TER      94      LYS A  33 
+ATOM     94  O   LYS A  33      21.361   2.262  43.047  1.00  5.40           O  
+TER      95      LYS A  33 
+ATOM     95  NZ  LYS A  33      21.064   2.597  45.072  1.00 16.42           N  
+TER      96      LYS A  33 
+ATOM     96  N   PHE A  34      23.014   3.482  44.543  1.00  3.67           N  
+TER      97      PHE A  34 
+ATOM     97  O   PHE A  34      23.188   3.290  46.652  1.00  6.51           O  
+TER      98      PHE A  34 
+ATOM     98  N   GLU A  35      18.862   5.871  48.806  1.00  2.37           N  
+TER      99      GLU A  35 
+ATOM     99  O   GLU A  35      19.980   6.945  48.942  1.00  5.32           O  
+TER     100      GLU A  35 
+ATOM    100  OE1 GLU A  35      21.698   7.488  50.559  1.00  5.03           O  
+TER     101      GLU A  35 
+ATOM    101  OE2 GLU A  35      22.292   6.768  50.711  1.00  8.52           O  
+TER     102      GLU A  35 
+ATOM    102  N   SER A  36      21.897   8.477  52.581  1.00  2.22           N  
+TER     103      SER A  36 
+ATOM    103  O   SER A  36      21.934   6.467  52.672  1.00  5.58           O  
+TER     104      SER A  36 
+ATOM    104  OG  SER A  36      24.187   6.897  52.266  1.00  4.02           O  
+TER     105      SER A  36 
+ATOM    105  N   ASN A  37      23.933   8.641  54.068  1.00  4.21           N  
+TER     106      ASN A  37 
+ATOM    106  O   ASN A  37      25.423   7.546  53.645  1.00  6.07           O  
+TER     107      ASN A  37 
+ATOM    107  OD1 ASN A  37      27.375   7.602  55.744  1.00 10.77           O  
+TER     108      ASN A  37 
+ATOM    108  ND2 ASN A  37      25.703   7.443  56.426  1.00 18.13           N  
+TER     109      ASN A  37 
+ATOM    109  N   PHE A  38      24.961   7.378  56.053  1.00  3.02           N  
+TER     110      PHE A  38 
+ATOM    110  O   PHE A  38      18.993   9.199  52.753  1.00  6.44           O  
+TER     111      PHE A  38 
+ATOM    111  N   ASN A  39      18.058   8.935  55.481  1.00  3.27           N  
+TER     112      ASN A  39 
+ATOM    112  O   ASN A  39      18.255   9.391  52.984  1.00  5.30           O  
+TER     113      ASN A  39 
+ATOM    113  OD1 ASN A  39      20.281  10.633  53.700  1.00  5.10           O  
+TER     114      ASN A  39 
+ATOM    114  ND2 ASN A  39      18.525  11.868  54.110  1.00  9.70           N  
+TER     115      ASN A  39 
+ATOM    115  N   THR A  40      17.140  12.061  55.150  1.00  3.74           N  
+TER     116      THR A  40 
+ATOM    116  O   THR A  40      16.867  13.557  54.703  1.00  6.33           O  
+TER     117      THR A  40 
+ATOM    117  OG1 THR A  40      16.544  13.782  54.229  1.00  6.95           O  
+TER     118      THR A  40 
+ATOM    118  N   GLN A  41      18.418  14.244  53.768  1.00  3.87           N  
+TER     119      GLN A  41 
+ATOM    119  O   GLN A  41      19.259  13.392  54.237  1.00  6.87           O  
+TER     120      GLN A  41 
+ATOM    120  OE1 GLN A  41      21.400  14.804  52.652  1.00  9.60           O  
+TER     121      GLN A  41 
+ATOM    121  NE2 GLN A  41      20.851  15.720  51.647  1.00  9.17           N  
+TER     122      GLN A  41 
+ATOM    122  N   ALA A  42      20.898  14.239  51.966  1.00  4.36           N  
+TER     123      ALA A  42 
+ATOM    123  O   ALA A  42      23.200  14.339  53.271  1.00  6.26           O  
+TER     124      ALA A  42 
+ATOM    124  N   THR A  43      23.456  16.194  53.115  1.00  3.93           N  
+TER     125      THR A  43 
+ATOM    125  O   THR A  43      23.430  13.179  55.629  1.00  8.82           O  
+TER     126      THR A  43 
+ATOM    126  OG1 THR A  43      22.287  15.189  56.204  1.00  8.95           O  
+TER     127      THR A  43 
+ATOM    127  N   ASN A  44      24.854  13.484  57.581  1.00  5.24           N  
+TER     128      ASN A  44 
+ATOM    128  O   ASN A  44      24.245  13.164  58.355  1.00  8.91           O  
+TER     129      ASN A  44 
+ATOM    129  OD1 ASN A  44      24.473  13.540  60.429  1.00 42.93           O  
+TER     130      ASN A  44 
+ATOM    130  ND2 ASN A  44      24.175  12.833  57.628  1.00 32.91           N  
+TER     131      ASN A  44 
+ATOM    131  N   ARG A  45      26.210  14.507  57.189  1.00  8.35           N  
+TER     132      ARG A  45 
+ATOM    132  O   ARG A  45       1.889   0.048   4.214  1.00 12.18           O  
+TER     133      ARG A  45 
+ATOM    133  NE  ARG A  45       3.246   0.185   4.220  1.00 22.70           N  
+TER     134      ARG A  45 
+ATOM    134  NH1 ARG A  45       4.041   1.337   2.658  1.00 23.35           N  
+TER     135      ARG A  45 
+ATOM    135  NH2 ARG A  45       4.053   1.208   3.961  1.00 17.76           N  
+TER     136      ARG A  45 
+ATOM    136  N   ASN A  46       3.555   2.287   4.216  1.00 12.33           N  
+TER     137      ASN A  46 
+ATOM    137  O   ASN A  46       6.091   2.562   4.628  1.00 20.85           O  
+TER     138      ASN A  46 
+ATOM    138  OD1 ASN A  46       3.145   0.379   6.380  1.00 21.37           O  
+TER     139      ASN A  46 
+ATOM    139  ND2 ASN A  46       2.328   1.176   6.693  1.00 17.42           N  
+TER     140      ASN A  46 
+ATOM    140  N   THR A  47       3.959  -0.346   6.245  1.00 18.87           N  
+TER     141      THR A  47 
+ATOM    141  O   THR A  47       3.642   0.683   8.723  1.00 23.77           O  
+TER     142      THR A  47 
+ATOM    142  OG1 THR A  47       2.086  -1.253   8.369  1.00 33.96           O  
+TER     143      THR A  47 
+ATOM    143  N   ASP A  48       2.966  -1.459  10.696  1.00 17.86           N  
+TER     144      ASP A  48 
+ATOM    144  O   ASP A  48       1.391   0.014  11.944  1.00 18.20           O  
+TER     145      ASP A  48 
+ATOM    145  OD1 ASP A  48       2.069  -2.632  10.266  1.00 22.55           O  
+TER     146      ASP A  48 
+ATOM    146  OD2 ASP A  48       2.480  -3.561  11.748  1.00 20.68           O  
+TER     147      ASP A  48 
+ATOM    147  N   GLY A  49       2.022  -2.708  10.267  1.00 13.40           N  
+TER     148      GLY A  49 
+ATOM    148  O   GLY A  49       6.248  -1.203   9.772  1.00 14.41           O  
+TER     149      GLY A  49 
+ATOM    149  N   SER A  50       5.789   0.235  10.183  1.00  7.71           N  
+TER     150      SER A  50 
+ATOM    150  O   SER A  50       7.550  -0.805   9.983  1.00  8.19           O  
+TER     151      SER A  50 
+ATOM    151  OG  SER A  50       8.039   1.236  10.235  1.00  8.82           O  
+TER     152      SER A  50 
+ATOM    152  N   THR A  51       7.512   2.240  10.531  1.00  4.60           N  
+TER     153      THR A  51 
+ATOM    153  O   THR A  51       9.071   2.865  12.033  1.00  5.59           O  
+TER     154      THR A  51 
+ATOM    154  OG1 THR A  51      11.407   2.838  11.501  1.00  6.79           O  
+TER     155      THR A  51 
+ATOM    155  N   ASP A  52      13.329   1.227  12.648  1.00  3.72           N  
+TER     156      ASP A  52 
+ATOM    156  O   ASP A  52      12.373  -0.356  10.006  1.00  5.94           O  
+TER     157      ASP A  52 
+ATOM    157  OD1 ASP A  52       6.869   0.222  12.481  1.00 18.42           O  
+TER     158      ASP A  52 
+ATOM    158  OD2 ASP A  52       5.970   0.919  12.763  1.00 12.45           O  
+TER     159      ASP A  52 
+ATOM    159  N   TYR A  53       7.706  -0.487  12.305  1.00  3.04           N  
+TER     160      TYR A  53 
+ATOM    160  O   TYR A  53       7.408   0.548  14.839  1.00  5.06           O  
+TER     161      TYR A  53 
+ATOM    161  OH  TYR A  53       7.527  -1.533  16.540  1.00  8.14           O  
+TER     162      TYR A  53 
+ATOM    162  N   GLY A  54       6.437  -0.183  17.001  1.00  4.26           N  
+TER     163      GLY A  54 
+ATOM    163  O   GLY A  54       5.344  -1.708  16.479  1.00  6.61           O  
+TER     164      GLY A  54 
+ATOM    164  N   ILE A  55       4.511  -1.783  14.749  1.00  4.95           N  
+TER     165      ILE A  55 
+ATOM    165  O   ILE A  55       9.535   0.158  16.168  1.00  7.14           O  
+TER     166      ILE A  55 
+ATOM    166  N   LEU A  56      11.737   1.096  15.879  1.00  4.56           N  
+TER     167      LEU A  56 
+ATOM    167  O   LEU A  56      13.090   1.667  16.164  1.00  5.03           O  
+TER     168      LEU A  56 
+ATOM    168  N   GLN A  57      15.419   3.847  17.216  1.00  2.61           N  
+TER     169      GLN A  57 
+ATOM    169  O   GLN A  57       9.900   1.176  18.700  1.00  4.75           O  
+TER     170      GLN A  57 
+ATOM    170  OE1 GLN A  57      11.338   0.860  20.847  1.00  8.01           O  
+TER     171      GLN A  57 
+ATOM    171  NE2 GLN A  57      10.872  -1.197  20.517  1.00  4.86           N  
+TER     172      GLN A  57 
+ATOM    172  N   ILE A  58       9.838  -1.096  20.533  1.00  3.04           N  
+TER     173      ILE A  58 
+ATOM    173  O   ILE A  58      11.660  -1.921  22.800  1.00  7.57           O  
+TER     174      ILE A  58 
+ATOM    174  N   ASN A  59      10.091   0.204  26.689  1.00  5.68           N  
+TER     175      ASN A  59 
+ATOM    175  O   ASN A  59       8.756   1.795  24.163  1.00  8.67           O  
+TER     176      ASN A  59 
+ATOM    176  OD1 ASN A  59       9.244   0.813  22.064  1.00 40.88           O  
+TER     177      ASN A  59 
+ATOM    177  ND2 ASN A  59       8.913   1.052  23.241  1.00 29.80           N  
+TER     178      ASN A  59 
+ATOM    178  N   SER A  60      10.181  -0.227  20.607  1.00  4.68           N  
+TER     179      SER A  60 
+ATOM    179  O   SER A  60      13.520   0.460  22.169  1.00  9.61           O  
+TER     180      SER A  60 
+ATOM    180  OG  SER A  60      14.790   0.314  22.255  1.00  7.40           O  
+TER     181      SER A  60 
+ATOM    181  N   ARG A  61      15.168  -0.693  21.880  1.00  8.90           N  
+TER     182      ARG A  61 
+ATOM    182  O   ARG A  61      15.423   2.340  22.459  1.00 14.49           O  
+TER     183      ARG A  61 
+ATOM    183  NE  ARG A  61      17.896  -0.314  22.529  1.00 39.94           N  
+TER     184      ARG A  61 
+ATOM    184  NH1 ARG A  61      17.353  -0.938  21.850  1.00 32.81           N  
+TER     185      ARG A  61 
+ATOM    185  NH2 ARG A  61      18.114   2.315  22.061  1.00 38.32           N  
+TER     186      ARG A  61 
+ATOM    186  N   TRP A  62      17.687   3.295  22.288  1.00 12.99           N  
+TER     187      TRP A  62 
+ATOM    187  O   TRP A  62      14.570   0.480  24.388  1.00 12.89           O  
+TER     188      TRP A  62 
+ATOM    188  NE1 TRP A  62      14.738   0.526  26.680  1.00 19.99           N  
+TER     189      TRP A  62 
+ATOM    189  N   TRP A  63      13.776  -0.813  28.555  1.00  7.41           N  
+TER     190      TRP A  63 
+ATOM    190  O   TRP A  63      13.878  -3.835  30.076  1.00  8.47           O  
+TER     191      TRP A  63 
+ATOM    191  NE1 TRP A  63      12.952  -5.152  31.441  1.00  8.81           N  
+TER     192      TRP A  63 
+ATOM    192  N   CYS A  64      16.146   0.869  28.443  1.00  4.67           N  
+TER     193      CYS A  64 
+ATOM    193  O   CYS A  64      18.923   1.751  26.708  1.00  8.54           O  
+TER     194      CYS A  64 
+ATOM    194  SG  CYS A  64      18.343   2.646  28.261  1.00  6.62           S  
+TER     195      CYS A  64 
+ATOM    195  N   ASN A  65      20.375   1.930  28.112  1.00  6.10           N  
+TER     196      ASN A  65 
+ATOM    196  O   ASN A  65      18.148   0.701  30.498  1.00  7.35           O  
+TER     197      ASN A  65 
+ATOM    197  OD1 ASN A  65      20.009  -0.056  32.162  1.00 10.75           O  
+TER     198      ASN A  65 
+ATOM    198  ND2 ASN A  65      19.291   0.404  32.470  1.00 10.96           N  
+TER     199      ASN A  65 
+ATOM    199  N   ASP A  66      19.048   1.421  32.610  1.00  5.53           N  
+TER     200      ASP A  66 
+ATOM    200  O   ASP A  66      21.594  -0.320  34.050  1.00  7.93           O  
+TER     201      ASP A  66 
+ATOM    201  OD1 ASP A  66      22.057  -0.103  34.560  1.00  7.93           O  
+TER     202      ASP A  66 
+ATOM    202  OD2 ASP A  66      22.400  -1.112  34.473  1.00  8.39           O  
+TER     203      ASP A  66 
+ATOM    203  N   GLY A  67      22.827   0.600  36.317  1.00  6.85           N  
+TER     204      GLY A  67 
+ATOM    204  O   GLY A  67      22.979  -0.141  36.629  1.00 11.55           O  
+TER     205      GLY A  67 
+ATOM    205  N   ARG A  68      24.308  -0.512  36.230  1.00  7.85           N  
+TER     206      ARG A  68 
+ATOM    206  O   ARG A  68      25.053  -1.014  37.787  1.00 11.54           O  
+TER     207      ARG A  68 
+ATOM    207  NE  ARG A  68      24.921   0.768  39.953  1.00 21.37           N  
+TER     208      ARG A  68 
+ATOM    208  NH1 ARG A  68      22.966  -0.030  38.956  1.00 19.82           N  
+TER     209      ARG A  68 
+ATOM    209  NH2 ARG A  68      22.381  -0.860  39.091  1.00 21.59           N  
+TER     210      ARG A  68 
+ATOM    210  N   THR A  69      22.391   1.297  38.462  1.00  7.46           N  
+TER     211      THR A  69 
+ATOM    211  O   THR A  69      21.725   0.349  40.985  1.00 10.78           O  
+TER     212      THR A  69 
+ATOM    212  OG1 THR A  69      21.712   3.302  40.595  1.00  9.06           O  
+TER     213      THR A  69 
+ATOM    213  N   PRO A  70      19.629   2.527  40.997  1.00  9.76           N  
+TER     214      PRO A  70 
+ATOM    214  O   PRO A  70      18.267   3.823  42.509  1.00 14.11           O  
+TER     215      PRO A  70 
+ATOM    215  N   GLY A  71      21.219   4.249  44.685  1.00 10.53           N  
+TER     216      GLY A  71 
+ATOM    216  O   GLY A  71      23.000   3.471  44.532  1.00 15.84           O  
+TER     217      GLY A  71 
+ATOM    217  N   SER A  72      23.501   2.660  44.752  1.00 10.92           N  
+TER     218      SER A  72 
+ATOM    218  O   SER A  72      24.118   3.270  45.244  1.00 14.19           O  
+TER     219      SER A  72 
+ATOM    219  OG  SER A  72      20.516   5.668  46.553  1.00 13.91           O  
+TER     220      SER A  72 
+ATOM    220  N   ARG A  73      20.544   4.737  47.103  1.00  9.93           N  
+TER     221      ARG A  73 
+ATOM    221  O   ARG A  73      20.346   6.793  47.076  1.00 12.92           O  
+TER     222      ARG A  73 
+ATOM    222  NE  ARG A  73      19.978   6.948  48.921  1.00 22.89           N  
+TER     223      ARG A  73 
+ATOM    223  NH1 ARG A  73      20.215   7.157  51.429  1.00 17.64           N  
+TER     224      ARG A  73 
+ATOM    224  NH2 ARG A  73      20.000   6.227  51.081  1.00 20.74           N  
+TER     225      ARG A  73 
+ATOM    225  N   ASN A  74      21.712   7.502  50.517  1.00  9.88           N  
+TER     226      ASN A  74 
+ATOM    226  O   ASN A  74      22.199   7.463  53.116  1.00 11.75           O  
+TER     227      ASN A  74 
+ATOM    227  OD1 ASN A  74      23.712   7.695  52.010  1.00 11.59           O  
+TER     228      ASN A  74 
+ATOM    228  ND2 ASN A  74      24.210   6.938  52.206  1.00  8.79           N  
+TER     229      ASN A  74 
+ATOM    229  N   LEU A  75      23.942   8.679  54.007  1.00 10.00           N  
+TER     230      LEU A  75 
+ATOM    230  O   LEU A  75      25.465   7.601  53.552  1.00 12.62           O  
+TER     231      LEU A  75 
+ATOM    231  N   CYS A  76      25.030   7.435  55.959  1.00  7.76           N  
+TER     232      CYS A  76 
+ATOM    232  O   CYS A  76      18.986   9.201  52.738  1.00 11.45           O  
+TER     233      CYS A  76 
+ATOM    233  SG  CYS A  76      18.912   7.084  54.024  1.00  9.57           S  
+TER     234      CYS A  76 
+ATOM    234  N   ASN A  77      19.917   6.948  53.116  1.00 10.03           N  
+TER     235      ASN A  77 
+ATOM    235  O   ASN A  77      18.244   6.912  54.485  1.00 11.83           O  
+TER     236      ASN A  77 
+ATOM    236  OD1 ASN A  77      18.957   9.178  55.330  1.00 34.87           O  
+TER     237      ASN A  77 
+ATOM    237  ND2 ASN A  77      17.182   9.364  53.428  1.00 26.24           N  
+TER     238      ASN A  77 
+ATOM    238  N   ILE A  78      18.266   9.386  52.979  1.00  8.41           N  
+TER     239      ILE A  78 
+ATOM    239  O   ILE A  78      20.291  10.627  53.682  1.00 10.18           O  
+TER     240      ILE A  78 
+ATOM    240  N   PRO A  79      16.871  13.558  54.680  1.00  7.23           N  
+TER     241      PRO A  79 
+ATOM    241  O   PRO A  79      18.243  14.171  55.300  1.00  8.04           O  
+TER     242      PRO A  79 
+ATOM    242  N   CYS A  80      19.270  13.396  54.240  1.00  4.57           N  
+TER     243      CYS A  80 
+ATOM    243  O   CYS A  80      21.571  13.989  52.417  1.00  8.20           O  
+TER     244      CYS A  80 
+ATOM    244  SG  CYS A  80      20.904  15.659  51.640  1.00  6.51           S  
+TER     245      CYS A  80 
+ATOM    245  N   SER A  81      20.957  14.146  51.964  1.00  5.14           N  
+TER     246      SER A  81 
+ATOM    246  O   SER A  81      23.255  14.219  53.276  1.00  8.81           O  
+TER     247      SER A  81 
+ATOM    247  OG  SER A  81      23.520  16.119  53.135  1.00 11.09           O  
+TER     248      SER A  81 
+ATOM    248  N   ALA A  82      24.699  14.896  54.163  1.00  6.67           N  
+TER     249      ALA A  82 
+ATOM    249  O   ALA A  82      23.108  14.467  56.213  1.00  9.84           O  
+TER     250      ALA A  82 
+ATOM    250  N   LEU A  83      24.214  14.008  55.695  1.00  6.17           N  
+TER     251      LEU A  83 
+ATOM    251  O   LEU A  83      24.205  15.256  58.573  1.00  7.36           O  
+TER     252      LEU A  83 
+ATOM    252  N   LEU A  84      24.048  12.958  57.686  1.00  4.78           N  
+TER     253      LEU A  84 
+ATOM    253  O   LEU A  84      26.636  15.599   3.817  1.00  8.59           O  
+TER     254      LEU A  84 
+ATOM    254  N   SER A  85       3.264   0.187   4.239  1.00  6.94           N  
+TER     255      SER A  85 
+ATOM    255  O   SER A  85       4.074   1.217   3.990  1.00  9.99           O  
+TER     256      SER A  85 
+ATOM    256  OG  SER A  85       5.511   1.397   4.544  1.00 13.72           O  
+TER     257      SER A  85 
+ATOM    257  N   SER A  86       6.129   0.383   4.356  1.00  7.56           N  
+TER     258      SER A  86 
+ATOM    258  O   SER A  86       5.619   3.424   5.937  1.00 13.12           O  
+TER     259      SER A  86 
+ATOM    259  OG  SER A  86       2.341   1.171   6.716  1.00 15.99           O  
+TER     260      SER A  86 
+ATOM    260  N   ASP A  87       3.970  -0.351   6.271  1.00  8.10           N  
+TER     261      ASP A  87 
+ATOM    261  O   ASP A  87       3.646   0.677   8.740  1.00 10.26           O  
+TER     262      ASP A  87 
+ATOM    262  OD1 ASP A  87       3.456  -2.363  10.276  1.00 18.36           O  
+TER     263      ASP A  87 
+ATOM    263  OD2 ASP A  87       2.963  -1.468  10.719  1.00 27.25           O  
+TER     264      ASP A  87 
+ATOM    264  N   ILE A  88       3.946  -1.633  10.870  1.00  7.20           N  
+TER     265      ILE A  88 
+ATOM    265  O   ILE A  88       2.249  -0.311  10.683  1.00  9.00           O  
+TER     266      ILE A  88 
+ATOM    266  N   THR A  89       1.065  -2.505   8.700  1.00  7.70           N  
+TER     267      THR A  89 
+ATOM    267  O   THR A  89       5.790   0.231  10.219  1.00  9.08           O  
+TER     268      THR A  89 
+ATOM    268  OG1 THR A  89       7.079   0.147  10.265  1.00 13.41           O  
+TER     269      THR A  89 
+ATOM    269  N   ALA A  90       7.984   1.285   8.909  1.00  6.57           N  
+TER     270      ALA A  90 
+ATOM    270  O   ALA A  90       9.400   1.256  11.543  1.00  6.76           O  
+TER     271      ALA A  90 
+ATOM    271  N   SER A  91       9.089   2.869  12.020  1.00  4.00           N  
+TER     272      SER A  91 
+ATOM    272  O   SER A  91      12.057   1.231  11.930  1.00  6.68           O  
+TER     273      SER A  91 
+ATOM    273  OG  SER A  91      13.491   1.874  10.491  1.00  6.92           O  
+TER     274      SER A  91 
+ATOM    274  N   VAL A  92      11.654   0.321  10.089  1.00  5.21           N  
+TER     275      VAL A  92 
+ATOM    275  O   VAL A  92      10.030  -0.357  12.017  1.00  8.34           O  
+TER     276      VAL A  92 
+ATOM    276  N   ASN A  93       8.429  -1.030  14.257  1.00  7.74           N  
+TER     277      ASN A  93 
+ATOM    277  O   ASN A  93       6.740  -1.457  14.413  1.00  9.39           O  
+TER     278      ASN A  93 
+ATOM    278  OD1 ASN A  93       8.002  -3.220  14.843  1.00 31.28           O  
+TER     279      ASN A  93 
+ATOM    279  ND2 ASN A  93       6.279  -3.579  13.469  1.00 18.78           N  
+TER     280      ASN A  93 
+ATOM    280  N   CYS A  94       7.247  -3.050  16.383  1.00  6.21           N  
+TER     281      CYS A  94 
+ATOM    281  O   CYS A  94       6.443  -0.163  17.015  1.00  8.43           O  
+TER     282      CYS A  94 
+ATOM    282  SG  CYS A  94       5.593  -3.057  18.059  1.00  9.57           S  
+TER     283      CYS A  94 
+ATOM    283  N   ALA A  95       5.324  -1.681  16.490  1.00  4.53           N  
+TER     284      ALA A  95 
+ATOM    284  O   ALA A  95       9.946  -1.422  15.802  1.00  6.50           O  
+TER     285      ALA A  95 
+ATOM    285  N   LYS A  96       8.850   0.782  16.422  1.00  4.81           N  
+TER     286      LYS A  96 
+ATOM    286  O   LYS A  96      11.695   1.298  14.686  1.00  8.02           O  
+TER     287      LYS A  96 
+ATOM    287  NZ  LYS A  96      13.651   0.447  15.574  1.00 16.62           N  
+TER     288      LYS A  96 
+ATOM    288  N   LYS A  97      13.955   2.494  14.399  1.00  6.35           N  
+TER     289      LYS A  97 
+ATOM    289  O   LYS A  97      15.412   3.853  17.233  1.00  8.46           O  
+TER     290      LYS A  97 
+ATOM    290  NZ  LYS A  97      12.289  -0.884  20.160  1.00 50.44           N  
+TER     291      LYS A  97 
+ATOM    291  N   ILE A  98      11.754  -0.115  20.457  1.00  5.79           N  
+TER     292      ILE A  98 
+ATOM    292  O   ILE A  98       9.877  -1.089  20.551  1.00  7.64           O  
+TER     293      ILE A  98 
+ATOM    293  N   VAL A  99      11.505  -1.526  25.253  1.00  5.05           N  
+TER     294      VAL A  99 
+ATOM    294  O   VAL A  99      10.042   0.176  26.692  1.00  9.43           O  
+TER     295      VAL A  99 
+ATOM    295  N   SER A 100       8.635   1.439  23.983  1.00  9.23           N  
+TER     296      SER A 100 
+ATOM    296  O   SER A 100       8.850   0.966  23.246  1.00 15.02           O  
+TER     297      SER A 100 
+ATOM    297  OG  SER A 100      13.223  -0.194  19.980  1.00 17.61           O  
+TER     298      SER A 100 
+ATOM    298  N   ASP A 101      14.033  -0.883  21.709  1.00 13.83           N  
+TER     299      ASP A 101 
+ATOM    299  O   ASP A 101      14.824   0.338  22.259  1.00 17.59           O  
+TER     300      ASP A 101 
+ATOM    300  OD1 ASP A 101      15.906   1.237  22.079  1.00 28.10           O  
+TER     301      ASP A 101 
+ATOM    301  OD2 ASP A 101      15.472   2.362  22.462  1.00 31.15           O  
+TER     302      ASP A 101 
+ATOM    302  N   GLY A 102      17.269   1.238  23.541  1.00 13.42           N  
+TER     303      GLY A 102 
+ATOM    303  O   GLY A 102      17.921  -0.307  22.537  1.00 14.74           O  
+TER     304      GLY A 102 
+ATOM    304  N   ASN A 103      18.941  -0.120  22.665  1.00  9.33           N  
+TER     305      ASN A 103 
+ATOM    305  O   ASN A 103      17.747   3.305  22.303  1.00  7.60           O  
+TER     306      ASN A 103 
+ATOM    306  OD1 ASN A 103      14.594   0.503  24.375  1.00 21.30           O  
+TER     307      ASN A 103 
+ATOM    307  ND2 ASN A 103      13.856   1.395  24.746  1.00 24.03           N  
+TER     308      ASN A 103 
+ATOM    308  N   GLY A 104      15.250  -0.350  24.299  1.00  4.51           N  
+TER     309      GLY A 104 
+ATOM    309  O   GLY A 104      14.733   0.531  26.677  1.00  5.36           O  
+TER     310      GLY A 104 
+ATOM    310  N   MET A 105      14.412  -1.595  26.236  1.00  3.11           N  
+TER     311      MET A 105 
+ATOM    311  O   MET A 105      14.241  -1.718  28.670  1.00  5.64           O  
+TER     312      MET A 105 
+ATOM    312  SD  MET A 105      13.375  -2.941  28.093  1.00  8.32           S  
+TER     313      MET A 105 
+ATOM    313  N   ASN A 106      13.841  -3.834  30.051  1.00  4.40           N  
+TER     314      ASN A 106 
+ATOM    314  O   ASN A 106      12.767  -2.222  30.396  1.00  7.53           O  
+TER     315      ASN A 106 
+ATOM    315  OD1 ASN A 106      12.371  -4.427  30.018  1.00  9.85           O  
+TER     316      ASN A 106 
+ATOM    316  ND2 ASN A 106      11.518  -4.271  26.773  1.00  4.68           N  
+TER     317      ASN A 106 
+ATOM    317  N   ALA A 107      16.654  -0.390  26.237  1.00  5.08           N  
+TER     318      ALA A 107 
+ATOM    318  O   ALA A 107      16.138   0.907  28.443  1.00  7.82           O  
+TER     319      ALA A 107 
+ATOM    319  N   TRP A 108      18.828  -0.338  27.776  1.00  5.03           N  
+TER     320      TRP A 108 
+ATOM    320  O   TRP A 108      18.340   2.659  28.233  1.00  7.23           O  
+TER     321      TRP A 108 
+ATOM    321  NE1 TRP A 108      17.124   1.232  30.700  1.00  6.36           N  
+TER     322      TRP A 108 
+ATOM    322  N   VAL A 109      20.649   0.081  31.990  1.00  6.02           N  
+TER     323      VAL A 109 
+ATOM    323  O   VAL A 109      20.003   0.498  34.784  1.00  9.03           O  
+TER     324      VAL A 109 
+ATOM    324  N   ALA A 110      21.867   0.014  36.786  1.00  5.54           N  
+TER     325      ALA A 110 
+ATOM    325  O   ALA A 110      24.281  -0.534  36.222  1.00  6.32           O  
+TER     326      ALA A 110 
+ATOM    326  N   TRP A 111      24.236  -1.319  37.853  1.00  4.60           N  
+TER     327      TRP A 111 
+ATOM    327  O   TRP A 111      24.797  -2.103  38.987  1.00  6.84           O  
+TER     328      TRP A 111 
+ATOM    328  NE1 TRP A 111      22.358  -0.871  39.087  1.00  5.96           N  
+TER     329      TRP A 111 
+ATOM    329  N   ARG A 112      21.696   3.295  40.578  1.00  5.60           N  
+TER     330      ARG A 112 
+ATOM    330  O   ARG A 112      19.125   1.695  41.069  1.00  9.75           O  
+TER     331      ARG A 112 
+ATOM    331  NE  ARG A 112      21.396   1.130  43.208  1.00 23.53           N  
+TER     332      ARG A 112 
+ATOM    332  NH1 ARG A 112      21.218   4.242  44.671  1.00 21.83           N  
+TER     333      ARG A 112 
+ATOM    333  NH2 ARG A 112      21.494   3.460  45.126  1.00 23.80           N  
+TER     334      ARG A 112 
+ATOM    334  N   ASN A 113      21.027   2.587  45.041  1.00  6.56           N  
+TER     335      ASN A 113 
+ATOM    335  O   ASN A 113      23.436   4.405  46.437  1.00  8.32           O  
+TER     336      ASN A 113 
+ATOM    336  OD1 ASN A 113      20.798   4.715  44.483  1.00  6.23           O  
+TER     337      ASN A 113 
+ATOM    337  ND2 ASN A 113      20.515   5.661  46.536  1.00  6.83           N  
+TER     338      ASN A 113 
+ATOM    338  N   ARG A 114      20.533   4.735  47.086  1.00  6.42           N  
+TER     339      ARG A 114 
+ATOM    339  O   ARG A 114      20.327   6.792  47.069  1.00  9.55           O  
+TER     340      ARG A 114 
+ATOM    340  NE  ARG A 114      19.974   6.950  48.901  1.00  6.16           N  
+TER     341      ARG A 114 
+ATOM    341  NH1 ARG A 114      20.222   7.164  51.412  1.00  7.01           N  
+TER     342      ARG A 114 
+ATOM    342  NH2 ARG A 114      20.018   6.235  51.044  1.00  9.92           N  
+TER     343      ARG A 114 
+ATOM    343  N   CYS A 115      21.717   7.520  50.475  1.00  4.52           N  
+TER     344      CYS A 115 
+ATOM    344  O   CYS A 115      22.222   7.485  53.079  1.00  6.82           O  
+TER     345      CYS A 115 
+ATOM    345  SG  CYS A 115      22.009   6.505  52.552  1.00  6.24           S  
+TER     346      CYS A 115 
+ATOM    346  N   LYS A 116      23.734   7.733  51.938  1.00  5.26           N  
+TER     347      LYS A 116 
+ATOM    347  O   LYS A 116      24.240   7.655  54.676  1.00  8.90           O  
+TER     348      LYS A 116 
+ATOM    348  NZ  LYS A 116      27.448   7.748  55.576  1.00  8.60           N  
+TER     349      LYS A 116 
+ATOM    349  N   GLY A 117      25.823   7.568  56.277  1.00  7.53           N  
+TER     350      GLY A 117 
+ATOM    350  O   GLY A 117      19.307   8.279  50.678  1.00 13.68           O  
+TER     351      GLY A 117 
+ATOM    351  N   THR A 118      18.983   9.202  52.723  1.00  7.92           N  
+TER     352      THR A 118 
+ATOM    352  O   THR A 118      19.949   6.951  53.102  1.00 10.52           O  
+TER     353      THR A 118 
+ATOM    353  OG1 THR A 118      17.989   7.406  55.681  1.00  7.17           O  
+TER     354      THR A 118 
+ATOM    354  N   ASP A 119      16.972   7.130  54.866  1.00  9.68           N  
+TER     355      ASP A 119 
+ATOM    355  O   ASP A 119      17.205   9.355  53.412  1.00 12.61           O  
+TER     356      ASP A 119 
+ATOM    356  OD1 ASP A 119      19.116  10.683  52.994  1.00 25.86           O  
+TER     357      ASP A 119 
+ATOM    357  OD2 ASP A 119      20.304  10.622  53.665  1.00 33.27           O  
+TER     358      ASP A 119 
+ATOM    358  N   VAL A 120      18.538  11.862  54.065  1.00  8.73           N  
+TER     359      VAL A 120 
+ATOM    359  O   VAL A 120      16.460  11.507  53.943  1.00  9.72           O  
+TER     360      VAL A 120 
+ATOM    360  N   GLN A 121      18.251  14.168  55.297  1.00  8.89           N  
+TER     361      GLN A 121 
+ATOM    361  O   GLN A 121      19.212  13.164  52.515  1.00 11.64           O  
+TER     362      GLN A 121 
+ATOM    362  OE1 GLN A 121      21.589  13.947  52.400  0.49 44.63           O  
+TER     363      GLN A 121 
+ATOM    363  NE2 GLN A 121      21.498  14.656  52.546  0.49 39.32           N  
+TER     364      GLN A 121 
+ATOM    364  N   ALA A 122      20.965  15.595  51.632  1.00  9.57           N  
+TER     365      ALA A 122 
+ATOM    365  O   ALA A 122      23.006  15.858  51.385  1.00 11.29           O  
+TER     366      ALA A 122 
+ATOM    366  N   TRP A 123      23.688  15.033  53.680  1.00  9.09           N  
+TER     367      TRP A 123 
+ATOM    367  O   TRP A 123      22.965  14.026  54.052  1.00 12.38           O  
+TER     368      TRP A 123 
+ATOM    368  NE1 TRP A 123      24.817  13.394  57.667  1.00  9.23           N  
+TER     369      TRP A 123 
+ATOM    369  N   ILE A 124      24.306  13.722  60.584  1.00  9.19           N  
+TER     370      ILE A 124 
+ATOM    370  O   ILE A 124      26.866  13.511  58.086  1.00 13.41           O  
+TER     371      ILE A 124 
+ATOM    371  N   ARG A 125       1.395   0.891   4.440  1.00 11.29           N  
+TER     372      ARG A 125 
+ATOM    372  O   ARG A 125       4.079   1.347   2.709  1.00 16.05           O  
+TER     373      ARG A 125 
+ATOM    373  NE  ARG A 125       6.146   0.391   4.397  0.63 33.47           N  
+TER     374      ARG A 125 
+ATOM    374  NH1 ARG A 125       7.074   2.609   4.155  0.63 29.50           N  
+TER     375      ARG A 125 
+ATOM    375  NH2 ARG A 125       5.632   3.432   5.958  0.63 36.10           N  
+TER     376      ARG A 125 
+ATOM    376  N   GLY A 126       3.172   0.373   6.422  1.00 13.73           N  
+TER     377      GLY A 126 
+ATOM    377  O   GLY A 126       4.667  -0.948   8.208  1.00 18.38           O  
+TER     378      GLY A 126 
+ATOM    378  N   CYS A 127       4.019  -0.306   8.538  1.00 12.29           N  
+TER     379      CYS A 127 
+ATOM    379  O   CYS A 127       2.091  -1.263   8.400  1.00 13.64           O  
+TER     380      CYS A 127 
+ATOM    380  SG  CYS A 127       2.956  -1.476  10.734  1.00 13.69           S  
+TER     381      CYS A 127 
+ATOM    381  N   ARG A 128       3.938  -1.634  10.880  1.00 12.34           N  
+TER     382      ARG A 128 
+ATOM    382  O   ARG A 128       2.216  -0.329  10.706  1.00 20.20           O  
+TER     383      ARG A 128 
+ATOM    383  NE  ARG A 128       1.990  -2.721  10.252  1.00 41.08           N  
+TER     384      ARG A 128 
+ATOM    384  NH1 ARG A 128       5.461  -0.470   8.159  1.00 43.71           N  
+TER     385      ARG A 128 
+ATOM    385  NH2 ARG A 128       6.253  -1.226   9.820  1.00 40.97           N  
+TER     386      ARG A 128 
+ATOM    386  N   LEU A 129       5.792   0.223  10.231  1.00 14.25           N  
+TER     387      LEU A 129 
+ATOM    387  O   LEU A 129       7.566  -0.801   9.996  1.00 29.67           O  
+TER     388      LEU A 129 
+ATOM    388  OXT LEU A 129       9.812   2.158  11.942  1.00 30.76           O  
+TER     389      LEU A 129 
+ATOM    389  I   IOD B1130       9.108   2.871  12.009  0.36 27.85           I  
+TER     390      IOD B1130 
+ATOM    390  I   IOD C1131      11.140   2.151  12.766  0.25 14.19           I  
+TER     391      IOD C1131 
+ATOM    391  I   IOD D1132      11.450   2.856  11.482  0.18 13.21           I  
+TER     392      IOD D1132 
+ATOM    392  I   IOD E1133      12.072   1.228  11.924  0.20 19.80           I  
+TER     393      IOD E1133 
+ATOM    393  O1  EDO F1134      13.504   1.860  10.492  1.00 20.74           O  
+TER     394      EDO F1134 
+ATOM    394  O2  EDO F1134      12.375  -0.402  10.025  1.00 15.98           O  
+TER     395      EDO F1134 
+ATOM    395  O   CMO G1135      10.023  -0.381  12.035  1.00 17.79           O  
+TER     396      CMO G1135 
+ATOM    396  O1  EDO H1136       6.009   0.969  12.803  1.00 29.39           O  
+TER     397      EDO H1136 
+ATOM    397  O2  EDO H1136       8.410  -1.045  14.275  1.00 34.69           O  
+TER     398      EDO H1136 
+ATOM    398  NA   NA P1144       7.218  -3.028  16.406  1.00  9.64           N  
+TER     399       NA P1144 
+ATOM    399  NA   NA Q1145       6.586  -1.209  16.919  1.00 11.50           N  
+TER     400       NA Q1145 
+ATOM    400  NA   NA R1146       7.498  -1.517  16.586  1.00 16.22           N  
+TER     401       NA R1146 
+ATOM    401  I   IOD S1147       6.437  -0.144  17.035  0.23 25.55           I  
+TER     402      IOD S1147 
+ATOM    402  O   HOH T2001       5.402  -1.955  16.984  1.00 13.42           O  
+TER     403      HOH T2001 
+ATOM    403  O   HOH T2002       5.558  -3.033  18.082  1.00 23.31           O  
+TER     404      HOH T2002 
+ATOM    404  O   HOH T2003       5.309  -1.667  16.514  1.00 12.90           O  
+TER     405      HOH T2003 
+ATOM    405  O   HOH T2004       4.480  -1.696  14.794  1.00 18.98           O  
+TER     406      HOH T2004 
+ATOM    406  O   HOH T2005       9.177  -0.621  14.269  1.00 11.51           O  
+TER     407      HOH T2005 
+ATOM    407  O   HOH T2006       9.942  -1.434  15.817  1.00 25.25           O  
+TER     408      HOH T2006 
+ATOM    408  O   HOH T2007       9.546   0.152  16.199  1.00 37.84           O  
+TER     409      HOH T2007 
+ATOM    409  O   HOH T2008       8.862   0.790  16.434  1.00 13.78           O  
+TER     410      HOH T2008 
+ATOM    410  O   HOH T2009      10.879   0.175  16.256  1.00  8.68           O  
+TER     411      HOH T2009 
+ATOM    411  O   HOH T2010      11.374  -0.780  15.771  1.00 13.36           O  
+TER     412      HOH T2010 
+ATOM    412  O   HOH T2011      11.706   1.295  14.697  1.00 24.24           O  
+TER     413      HOH T2011 
+ATOM    413  O   HOH T2012      11.717   1.111  15.949  1.00 28.41           O  
+TER     414      HOH T2012 
+ATOM    414  O   HOH T2013      11.218   2.253  16.263  1.00 19.08           O  
+TER     415      HOH T2013 
+ATOM    415  O   HOH T2014      13.162   1.374  17.336  1.00 18.68           O  
+TER     416      HOH T2014 
+ATOM    416  O   HOH T2015      13.168   1.567  16.086  1.00 31.44           O  
+TER     417      HOH T2015 
+ATOM    417  O   HOH T2016      13.662   0.422  15.573  0.50 22.86           O  
+TER     418      HOH T2016 
+ATOM    418  O   HOH T2017      13.963   2.482  14.396  1.00 26.27           O  
+TER     419      HOH T2017 
+ATOM    419  O   HOH T2018      13.803   2.784  16.277  1.00 20.34           O  
+TER     420      HOH T2018 
+ATOM    420  O   HOH T2019      14.863   3.139  15.822  1.00  6.88           O  
+TER     421      HOH T2019 
+ATOM    421  O   HOH T2020      15.385   3.874  17.248  1.00 22.21           O  
+TER     422      HOH T2020 
+ATOM    422  O   HOH T2021      15.022   2.911  17.956  1.00 26.00           O  
+TER     423      HOH T2021 
+ATOM    423  O   HOH T2022      10.764   0.378  18.432  1.00 11.65           O  
+TER     424      HOH T2022 
+ATOM    424  O   HOH T2023       9.904   1.125  18.718  1.00 21.30           O  
+TER     425      HOH T2023 
+ATOM    425  O   HOH T2024      11.655  -0.261  18.263  1.00 20.84           O  
+TER     426      HOH T2024 
+ATOM    426  O   HOH T2025      12.334  -0.854  20.169  1.00 18.21           O  
+TER     427      HOH T2025 
+ATOM    427  O   HOH T2026      11.788  -0.097  20.467  1.00 28.49           O  
+TER     428      HOH T2026 
+ATOM    428  O   HOH T2027      11.404   0.878  20.868  1.00 28.60           O  
+TER     429      HOH T2027 
+ATOM    429  O   HOH T2028      10.949  -1.178  20.537  1.00 11.53           O  
+TER     430      HOH T2028 
+ATOM    430  O   HOH T2029       9.915  -1.086  20.560  1.00 26.35           O  
+TER     431      HOH T2029 
+ATOM    431  O   HOH T2030      11.304  -2.162  22.365  1.00  7.60           O  
+TER     432      HOH T2030 
+ATOM    432  O   HOH T2031      10.961  -1.116  23.175  1.00 21.13           O  
+TER     433      HOH T2031 
+ATOM    433  O   HOH T2032      11.769  -1.840  22.841  1.00 21.51           O  
+TER     434      HOH T2032 
+ATOM    434  O   HOH T2033      12.497  -2.565  24.488  1.00 33.68           O  
+TER     435      HOH T2033 
+ATOM    435  O   HOH T2034      11.519  -1.503  25.270  1.00 20.08           O  
+TER     436      HOH T2034 
+ATOM    436  O   HOH T2035      11.985  -1.941  24.595  1.00 10.07           O  
+TER     437      HOH T2035 
+ATOM    437  O   HOH T2036      10.558  -0.525  25.691  1.00  8.54           O  
+TER     438      HOH T2036 
+ATOM    438  O   HOH T2037       9.985   0.142  26.697  1.00 24.56           O  
+TER     439      HOH T2037 
+ATOM    439  O   HOH T2038      10.312  -0.076  25.459  1.00 19.32           O  
+TER     440      HOH T2038 
+ATOM    440  O   HOH T2039       8.969   1.087  26.288  1.00 17.11           O  
+TER     441      HOH T2039 
+ATOM    441  O   HOH T2040       8.510   1.604  24.143  1.00 24.81           O  
+TER     442      HOH T2040 
+ATOM    442  O   HOH T2041       8.545   1.349  23.969  1.00  4.86           O  
+TER     443      HOH T2041 
+ATOM    443  O   HOH T2042       7.759   2.069  23.051  1.00 15.03           O  
+TER     444      HOH T2042 
+ATOM    444  O   HOH T2043       9.137   0.681  22.045  1.00 13.76           O  
+TER     445      HOH T2043 
+ATOM    445  O   HOH T2044       8.808   0.893  23.248  1.00 35.22           O  
+TER     446      HOH T2044 
+ATOM    446  O   HOH T2045      10.159  -0.273  20.604  1.00 25.74           O  
+TER     447      HOH T2045 
+ATOM    447  O   HOH T2046      13.262  -0.175  19.975  1.00 36.11           O  
+TER     448      HOH T2046 
+ATOM    448  O   HOH T2047      14.076  -0.860  21.703  1.00 25.60           O  
+TER     449      HOH T2047 
+ATOM    449  O   HOH T2048      13.597   0.506  22.158  1.00 11.99           O  
+TER     450      HOH T2048 
+ATOM    450  O   HOH T2049      12.872   1.043  22.432  1.00 41.52           O  
+TER     451      HOH T2049 
+ATOM    451  O   HOH T2050      14.860   0.360  22.258  1.00 12.28           O  
+TER     452      HOH T2050 
+ATOM    452  O   HOH T2051      15.233  -0.650  21.881  1.00  9.59           O  
+TER     453      HOH T2051 
+ATOM    453  O   HOH T2052      15.884   1.377  20.800  1.00 19.62           O  
+TER     454      HOH T2052 
+ATOM    454  O   HOH T2053      15.950   1.255  22.076  1.00  5.55           O  
+TER     455      HOH T2053 
+ATOM    455  O   HOH T2054      15.513   2.383  22.471  1.00 17.59           O  
+TER     456      HOH T2054 
+ATOM    456  O   HOH T2055      17.304   1.252  23.552  1.00 29.91           O  
+TER     457      HOH T2055 
+ATOM    457  O   HOH T2056      17.263   1.390  22.173  1.00 12.88           O  
+TER     458      HOH T2056 
+ATOM    458  O   HOH T2057      17.950  -0.104  21.099  1.00 28.50           O  
+TER     459      HOH T2057 
+ATOM    459  O   HOH T2058      17.946  -0.290  22.537  1.00 15.15           O  
+TER     460      HOH T2058 
+ATOM    460  O   HOH T2059      18.977  -0.110  22.675  1.00 24.69           O  
+TER     461      HOH T2059 
+ATOM    461  O   HOH T2060      17.406  -0.905  21.884  0.50 17.38           O  
+TER     462      HOH T2060 
+ATOM    462  O   HOH T2061      18.208   2.337  22.108  1.00 23.18           O  
+TER     463      HOH T2061 
+ATOM    463  O   HOH T2062      17.796   3.320  22.324  1.00 28.41           O  
+TER     464      HOH T2062 
+ATOM    464  O   HOH T2063      19.203   2.265  20.803  1.00 25.91           O  
+TER     465      HOH T2063 
+ATOM    465  O   HOH T2064      18.281   2.220  23.947  1.00 35.00           O  
+TER     466      HOH T2064 
+ATOM    466  O   HOH T2065      14.623   0.523  24.378  1.00 15.34           O  
+TER     467      HOH T2065 
+ATOM    467  O   HOH T2066      13.899   1.426  24.749  1.00 18.00           O  
+TER     468      HOH T2066 
+ATOM    468  O   HOH T2067      15.254  -0.344  24.305  1.00 15.94           O  
+TER     469      HOH T2067 
+ATOM    469  O   HOH T2068      15.836  -1.040  26.223  1.00 11.45           O  
+TER     470      HOH T2068 
+ATOM    470  O   HOH T2069      15.220  -0.366  26.590  1.00 16.16           O  
+TER     471      HOH T2069 
+ATOM    471  O   HOH T2070      14.725   0.533  26.674  1.00 11.00           O  
+TER     472      HOH T2070 
+ATOM    472  O   HOH T2071      14.409  -1.592  26.232  1.00  5.72           O  
+TER     473      HOH T2071 
+ATOM    473  O   HOH T2072      13.416  -1.517  26.293  1.00 14.01           O  
+TER     474      HOH T2072 
+ATOM    474  O   HOH T2073      14.886  -2.496  28.194  1.00 19.18           O  
+TER     475      HOH T2073 
+ATOM    475  O   HOH T2074      14.232  -1.723  28.668  1.00 11.83           O  
+TER     476      HOH T2074 
+ATOM    476  O   HOH T2075      15.204  -1.856  28.582  1.00  8.34           O  
+TER     477      HOH T2075 
+ATOM    477  O   HOH T2076      13.760  -0.821  28.515  1.00 17.36           O  
+TER     478      HOH T2076 
+ATOM    478  O   HOH T2077      13.349  -2.940  28.071  1.00 18.45           O  
+TER     479      HOH T2077 
+ATOM    479  O   HOH T2078      12.365  -2.795  28.089  1.00 13.91           O  
+TER     480      HOH T2078 
+ATOM    480  O   HOH T2079      13.803  -3.835  30.030  1.00 22.33           O  
+TER     481      HOH T2079 
+ATOM    481  O   HOH T2080      13.203  -3.119  30.471  1.00 19.88           O  
+TER     482      HOH T2080 
+ATOM    482  O   HOH T2081      14.196  -3.207  30.447  1.00 22.71           O  
+TER     483      HOH T2081 
+ATOM    483  O   HOH T2082      12.732  -2.229  30.360  1.00 11.42           O  
+TER     484      HOH T2082 
+ATOM    484  O   HOH T2083      12.392  -4.321  29.997  1.00 15.76           O  
+TER     485      HOH T2083 
+ATOM    485  O   HOH T2084      12.816  -5.162  31.360  1.00 27.54           O  
+TER     486      HOH T2084 
+ATOM    486  O   HOH T2085      12.302  -4.435  29.978  1.00 19.19           O  
+TER     487      HOH T2085 
+ATOM    487  O   HOH T2086      11.460  -4.254  26.781  1.00 32.61           O  
+TER     488      HOH T2086 
+ATOM    488  O   HOH T2087      16.647  -0.390  26.261  1.00 30.16           O  
+TER     489      HOH T2087 
+ATOM    489  O   HOH T2088      17.507  -1.104  27.826  1.00 24.01           O  
+TER     490      HOH T2088 
+ATOM    490  O   HOH T2089      16.894   0.394  28.217  1.00 24.45           O  
+TER     491      HOH T2089 
+ATOM    491  O   HOH T2090      16.126   0.921  28.441  1.00 17.66           O  
+TER     492      HOH T2090 
+ATOM    492  O   HOH T2091      18.215   0.574  28.263  1.00  5.84           O  
+TER     493      HOH T2091 
+ATOM    493  O   HOH T2092      18.816  -0.318  27.759  1.00  8.58           O  
+TER     494      HOH T2092 
+ATOM    494  O   HOH T2093      18.904   1.768  26.680  1.00 24.68           O  
+TER     495      HOH T2093 
+ATOM    495  O   HOH T2094      18.892   1.618  27.975  1.00 14.39           O  
+TER     496      HOH T2094 
+ATOM    496  O   HOH T2095      18.341   2.676  28.208  1.00 16.36           O  
+TER     497      HOH T2095 
+ATOM    497  O   HOH T2096      20.365   1.934  28.074  1.00 28.56           O  
+TER     498      HOH T2096 
+ATOM    498  O   HOH T2097      21.151   0.966  28.693  1.00 12.36           O  
+TER     499      HOH T2097 
+ATOM    499  O   HOH T2098      20.731   3.031  29.967  1.00 19.50           O  
+TER     500      HOH T2098 
+ATOM    500  O   HOH T2099      18.120   0.777  30.480  1.00 13.04           O  
+TER     501      HOH T2099 
+ATOM    501  O   HOH T2100      17.116   1.283  30.701  1.00 24.22           O  
+TER     502      HOH T2100 
+ATOM    502  O   HOH T2101      19.166   0.382  30.226  1.00 22.98           O  
+TER     503      HOH T2101 
+ATOM    503  O   HOH T2102      19.969  -0.005  32.159  1.00  7.65           O  
+TER     504      HOH T2102 
+ATOM    504  O   HOH T2103      19.250   0.502  32.450  1.00 18.91           O  
+TER     505      HOH T2103 
+ATOM      1  N   LYS A   1      14.001   2.439  14.336  1.00  5.98           N  
+TER       2      LYS A   1 
+ATOM      2  O   LYS A   1      15.342   3.897  17.231  1.00  8.80           O  
+TER       3      LYS A   1 
+ATOM      3  NZ  LYS A   1      12.499  -0.726  20.201  1.00 28.53           N  
+TER       4      LYS A   1 
+ATOM      4  N   VAL A   2      11.912  -0.039  20.512  1.00  5.99           N  
+TER       5      VAL A   2 
+ATOM      5  O   VAL A   2      10.049  -1.071  20.570  1.00  9.81           O  
+TER       6      VAL A   2 
+ATOM      6  N   PHE A   3      12.596  -2.447  24.510  1.00  6.45           N  
+TER       7      PHE A   3 
+ATOM      7  O   PHE A   3      10.363  -0.657  25.648  1.00  9.70           O  
+TER       8      PHE A   3 
+ATOM      8  N   GLY A   4       8.719   0.767  23.214  1.00  8.36           N  
+TER       9      GLY A   4 
+ATOM      9  O   GLY A   4      14.194  -0.811  21.750  1.00  9.18           O  
+TER      10      GLY A   4 
+ATOM     10  N   ARG A   5      13.722   0.551  22.206  1.00  8.02           N  
+TER      11      ARG A   5 
+ATOM     11  O   ARG A   5      15.376  -0.596  21.924  1.00 10.08           O  
+TER      12      ARG A   5 
+ATOM     12  NE  ARG A   5      17.426   1.336  23.621  1.00 12.25           N  
+TER      13      ARG A   5 
+ATOM     13  NH1 ARG A   5      18.111   0.002  21.150  1.00 11.43           N  
+TER      14      ARG A   5 
+ATOM     14  NH2 ARG A   5      18.149  -0.157  22.625  1.00 19.07           N  
+TER      15      ARG A   5 
+ATOM     15  N   CYS A   6      19.126   0.006  22.699  1.00  8.60           N  
+TER      16      CYS A   6 
+ATOM     16  O   CYS A   6      17.876   3.420  22.440  1.00  9.18           O  
+TER      17      CYS A   6 
+ATOM     17  SG  CYS A   6      18.404   2.361  23.980  1.00 13.32           S  
+TER      18      CYS A   6 
+ATOM     18  N   GLU A   7      14.759   0.561  24.423  1.00  6.12           N  
+TER      19      GLU A   7 
+ATOM     19  O   GLU A   7      15.851  -1.097  26.240  1.00  7.31           O  
+TER      20      GLU A   7 
+ATOM     20  OE1 GLU A   7      13.478  -1.599  26.310  1.00 14.72           O  
+TER      21      GLU A   7 
+ATOM     21  OE2 GLU A   7      14.965  -2.545  28.175  1.00 13.92           O  
+TER      22      GLU A   7 
+ATOM     22  N   LEU A   8      14.227  -1.763  28.680  1.00  4.76           N  
+TER      23      LEU A   8 
+ATOM     23  O   LEU A   8      13.301  -2.953  27.973  1.00  7.44           O  
+TER      24      LEU A   8 
+ATOM     24  N   ALA A   9      12.665  -2.181  30.274  1.00  5.84           N  
+TER      25      ALA A   9 
+ATOM     25  O   ALA A   9      12.007  -4.336  29.853  1.00  8.26           O  
+TER      26      ALA A   9 
+ATOM     26  N   ALA A  10      16.671  -0.401  26.368  1.00  6.49           N  
+TER      27      ALA A  10 
+ATOM     27  O   ALA A  10      16.142   1.035  28.424  1.00  8.70           O  
+TER      28      ALA A  10 
+ATOM     28  N   ALA A  11      18.819  -0.228  27.686  1.00  7.06           N  
+TER      29      ALA A  11 
+ATOM     29  O   ALA A  11      18.385   2.750  28.136  1.00  9.61           O  
+TER      30      ALA A  11 
+ATOM     30  N   MET A  12      21.160   0.991  28.558  1.00  5.70           N  
+TER      31      MET A  12 
+ATOM     31  O   MET A  12      17.099   1.509  30.698  1.00  9.63           O  
+TER      32      MET A  12 
+ATOM     32  SD  MET A  12      19.196   0.736  32.408  1.00  8.60           S  
+TER      33      MET A  12 
+ATOM     33  N   LYS A  13      18.382   0.182  32.736  1.00  8.93           N  
+TER      34      LYS A  13 
+ATOM     34  O   LYS A  13      20.668   0.320  34.605  1.00 14.29           O  
+TER      35      LYS A  13 
+ATOM     35  NZ  LYS A  13      21.728  -0.017  36.812  1.00 45.34           N  
+TER      36      LYS A  13 
+ATOM     36  N   ARG A  14      20.628   0.255  37.068  1.00 11.40           N  
+TER      37      ARG A  14 
+ATOM     37  O   ARG A  14      24.644   0.176  35.815  1.00 15.05           O  
+TER      38      ARG A  14 
+ATOM     38  NE  ARG A  14      24.633  -2.260  38.926  1.00 30.17           N  
+TER      39      ARG A  14 
+ATOM     39  NH1 ARG A  14      24.848   0.578  39.880  1.00 34.53           N  
+TER      40      ARG A  14 
+ATOM     40  NH2 ARG A  14      24.402  -0.894  38.531  1.00 29.09           N  
+TER      41      ARG A  14 
+ATOM     41  N   HIS A  15      22.852  -0.148  38.943  1.00 10.79           N  
+TER      42      HIS A  15 
+ATOM     42  O   HIS A  15      22.575   2.258  40.209  1.00 13.55           O  
+TER      43      HIS A  15 
+ATOM     43  ND1 HIS A  15      21.074   2.333  40.595  1.00 17.29           N  
+TER      44      HIS A  15 
+ATOM     44  NE2 HIS A  15      19.542   2.490  40.871  1.00 17.22           N  
+TER      45      HIS A  15 
+ATOM     45  N   GLY A  16      19.015   1.678  40.953  1.00 11.03           N  
+TER      46      GLY A  16 
+ATOM     46  O   GLY A  16      21.192   2.195  42.952  1.00 11.36           O  
+TER      47      GLY A  16 
+ATOM     47  N   LEU A  17      21.231   1.082  43.121  1.00 10.20           N  
+TER      48      LEU A  17 
+ATOM     48  O   LEU A  17      21.401   3.417  45.041  1.00 13.58           O  
+TER      49      LEU A  17 
+ATOM     49  N   ASP A  18      23.053   3.199  46.542  1.00 12.48           N  
+TER      50      ASP A  18 
+ATOM     50  O   ASP A  18      20.467   5.638  46.439  1.00 15.82           O  
+TER      51      ASP A  18 
+ATOM     51  OD1 ASP A  18      19.826   5.825  46.753  1.00 30.30           O  
+TER      52      ASP A  18 
+ATOM     52  OD2 ASP A  18      20.206   6.763  47.008  1.00 28.37           O  
+TER      53      ASP A  18 
+ATOM     53  N   ASN A  19      18.747   5.806  48.665  1.00 12.24           N  
+TER      54      ASN A  19 
+ATOM     54  O   ASN A  19      19.959   6.960  48.781  1.00 10.91           O  
+TER      55      ASN A  19 
+ATOM     55  OD1 ASN A  19      20.139   6.269  50.818  1.00 36.22           O  
+TER      56      ASN A  19 
+ATOM     56  ND2 ASN A  19      21.769   7.607  50.224  1.00 30.01           N  
+TER      57      ASN A  19 
+ATOM     57  N   TYR A  20      22.354   6.905  50.381  1.00  8.42           N  
+TER      58      TYR A  20 
+ATOM     58  O   TYR A  20      21.842   8.353  52.685  1.00  9.05           O  
+TER      59      TYR A  20 
+ATOM     59  OH  TYR A  20      26.640   8.162  51.968  1.00 15.26           O  
+TER      60      TYR A  20 
+ATOM     60  N   ARG A  21      26.363   8.219  53.189  1.00  8.26           N  
+TER      61      ARG A  21 
+ATOM     61  O   ARG A  21      25.451   7.816  55.319  1.00 10.08           O  
+TER      62      ARG A  21 
+ATOM     62  NE  ARG A  21      18.995   8.235  53.516  1.00 39.46           N  
+TER      63      ARG A  21 
+ATOM     63  NH1 ARG A  21      20.139   6.997  53.022  1.00 39.07           N  
+TER      64      ARG A  21 
+ATOM     64  NH2 ARG A  21      18.808   6.161  54.692  1.00 29.74           N  
+TER      65      ARG A  21 
+ATOM     65  N   GLY A  22      18.184   7.369  55.606  1.00  7.61           N  
+TER      66      GLY A  22 
+ATOM     66  O   GLY A  22      18.234   8.890  55.373  1.00 10.36           O  
+TER      67      GLY A  22 
+ATOM     67  N   TYR A  23      19.113   9.179  55.264  1.00  5.79           N  
+TER      68      TYR A  23 
+ATOM     68  O   TYR A  23      17.384   9.521  53.262  1.00  8.07           O  
+TER      69      TYR A  23 
+ATOM     69  OH  TYR A  23      16.172  13.843  52.865  1.00  6.89           O  
+TER      70      TYR A  23 
+ATOM     70  N   SER A  24      16.664  13.799  54.224  1.00  6.90           N  
+TER      71      SER A  24 
+ATOM     71  O   SER A  24      18.417  15.133  53.577  1.00  8.65           O  
+TER      72      SER A  24 
+ATOM     72  OG  SER A  24      19.407  13.431  54.315  1.00 13.64           O  
+TER      73      SER A  24 
+ATOM     73  N   LEU A  25      20.648  13.144  55.440  1.00  6.91           N  
+TER      74      LEU A  25 
+ATOM     74  O   LEU A  25      21.798  14.204  52.314  1.00  8.29           O  
+TER      75      LEU A  25 
+ATOM     75  N   GLY A  26      23.621  13.340  53.366  1.00  5.38           N  
+TER      76      GLY A  26 
+ATOM     76  O   GLY A  26      24.975  14.186  54.341  1.00  7.29           O  
+TER      77      GLY A  26 
+ATOM     77  N   ASN A  27      23.064  13.744  54.397  1.00  4.80           N  
+TER      78      ASN A  27 
+ATOM     78  O   ASN A  27      22.350  15.290  56.558  1.00  5.46           O  
+TER      79      ASN A  27 
+ATOM     79  OD1 ASN A  27      24.405  14.431  57.976  1.00 10.10           O  
+TER      80      ASN A  27 
+ATOM     80  ND2 ASN A  27      24.073  15.467  58.959  1.00  2.39           N  
+TER      81      ASN A  27 
+ATOM     81  N   TRP A  28      23.652  13.619  58.694  1.00  3.66           N  
+TER      82      TRP A  28 
+ATOM     82  O   TRP A  28      23.792  14.247  60.881  1.00  4.58           O  
+TER      83      TRP A  28 
+ATOM     83  NE1 TRP A  28       2.051   0.077   4.269  1.00  5.97           N  
+TER      84      TRP A  28 
+ATOM     84  N   VAL A  29       4.182   1.395   2.862  1.00  2.57           N  
+TER      85      VAL A  29 
+ATOM     85  O   VAL A  29       5.618   1.450   4.767  1.00  5.31           O  
+TER      86      VAL A  29 
+ATOM     86  N   CYS A  30       5.719   3.479   6.062  1.00  2.29           N  
+TER      87      CYS A  30 
+ATOM     87  O   CYS A  30       4.031  -0.380   6.399  1.00  4.00           O  
+TER      88      CYS A  30 
+ATOM     88  SG  CYS A  30       4.032  -0.363   8.650  1.00  6.23           S  
+TER      89      CYS A  30 
+ATOM     89  N   ALA A  31       3.655   0.602   8.819  1.00  3.14           N  
+TER      90      ALA A  31 
+ATOM     90  O   ALA A  31       3.472  -2.435  10.349  1.00  6.03           O  
+TER      91      ALA A  31 
+ATOM     91  N   ALA A  32       3.878  -1.679  10.918  1.00  4.55           N  
+TER      92      ALA A  32 
+ATOM     92  O   ALA A  32       2.076  -0.415  10.777  1.00  6.68           O  
+TER      93      ALA A  32 
+ATOM     93  N   LYS A  33       2.036  -2.750  10.353  1.00  3.58           N  
+TER      94      LYS A  33 
+ATOM     94  O   LYS A  33       1.053  -2.654   8.857  1.00  5.40           O  
+TER      95      LYS A  33 
+ATOM     95  NZ  LYS A  33       7.105   0.171  10.411  1.00 16.42           N  
+TER      96      LYS A  33 
+ATOM     96  N   PHE A  34       7.562  -0.804   9.991  1.00  3.67           N  
+TER      97      PHE A  34 
+ATOM     97  O   PHE A  34       7.593   2.230  10.530  1.00  6.51           O  
+TER      98      PHE A  34 
+ATOM     98  N   GLU A  35      13.523   1.759  10.547  1.00  2.37           N  
+TER      99      GLU A  35 
+ATOM     99  O   GLU A  35      10.360   0.261   9.285  1.00  5.32           O  
+TER     100      GLU A  35 
+ATOM    100  OE1 GLU A  35       7.719  -0.400  12.439  1.00  5.03           O  
+TER     101      GLU A  35 
+ATOM    101  OE2 GLU A  35       8.384  -1.016  14.353  1.00  8.52           O  
+TER     102      GLU A  35 
+ATOM    102  N   SER A  36       7.753  -0.344  14.654  1.00  2.22           N  
+TER     103      SER A  36 
+ATOM    103  O   SER A  36       5.752  -1.087  14.616  1.00  5.58           O  
+TER     104      SER A  36 
+ATOM    104  OG  SER A  36       7.934  -3.125  14.928  1.00  4.02           O  
+TER     105      SER A  36 
+ATOM    105  N   ASN A  37       6.198  -3.438  13.539  1.00  4.21           N  
+TER     106      ASN A  37 
+ATOM    106  O   ASN A  37       7.482  -1.444  16.672  1.00  6.07           O  
+TER     107      ASN A  37 
+ATOM    107  OD1 ASN A  37       5.509  -2.918  18.156  1.00 10.77           O  
+TER     108      ASN A  37 
+ATOM    108  ND2 ASN A  37       5.290  -1.557  16.588  1.00 18.13           N  
+TER     109      ASN A  37 
+ATOM    109  N   PHE A  38       4.459  -1.554  14.868  1.00  3.02           N  
+TER     110      PHE A  38 
+ATOM    110  O   PHE A  38       9.581   0.184  16.299  1.00  6.44           O  
+TER     111      PHE A  38 
+ATOM    111  N   ASN A  39      13.363   1.373  15.833  1.00  3.27           N  
+TER     112      ASN A  39 
+ATOM    112  O   ASN A  39      13.886   2.721  16.228  1.00  5.30           O  
+TER     113      ASN A  39 
+ATOM    113  OD1 ASN A  39      14.971   2.936  18.013  1.00  5.10           O  
+TER     114      ASN A  39 
+ATOM    114  ND2 ASN A  39      10.852   0.400  18.514  1.00  9.70           N  
+TER     115      ASN A  39 
+ATOM    115  N   THR A  40       9.944   1.070  18.754  1.00  3.74           N  
+TER     116      THR A  40 
+ATOM    116  O   THR A  40      11.932  -0.031  20.529  1.00  6.33           O  
+TER     117      THR A  40 
+ATOM    117  OG1 THR A  40      11.087  -1.135  20.471  1.00  6.95           O  
+TER     118      THR A  40 
+ATOM    118  N   GLN A  41      11.479  -2.108  22.361  1.00  3.87           N  
+TER     119      GLN A  41 
+ATOM    119  O   GLN A  41      12.581  -2.452  24.514  1.00  6.87           O  
+TER     120      GLN A  41 
+ATOM    120  OE1 GLN A  41       9.533  -0.190  26.644  1.00  9.60           O  
+TER     121      GLN A  41 
+ATOM    121  NE2 GLN A  41       9.765  -0.463  25.336  1.00  9.17           N  
+TER     122      GLN A  41 
+ATOM    122  N   ALA A  42       8.463   0.679  26.135  1.00  4.36           N  
+TER     123      ALA A  42 
+ATOM    123  O   ALA A  42       7.354   1.678  22.945  1.00  6.26           O  
+TER     124      ALA A  42 
+ATOM    124  N   THR A  43       8.704   0.749  23.198  1.00  3.93           N  
+TER     125      THR A  43 
+ATOM    125  O   THR A  43      14.205  -0.815  21.766  1.00  8.82           O  
+TER     126      THR A  43 
+ATOM    126  OG1 THR A  43      13.026   1.098  22.478  1.00  8.95           O  
+TER     127      THR A  43 
+ATOM    127  N   ASN A  44      15.407  -0.588  21.940  1.00  5.24           N  
+TER     128      ASN A  44 
+ATOM    128  O   ASN A  44      15.631   2.448  22.559  1.00  8.91           O  
+TER     129      ASN A  44 
+ATOM    129  OD1 ASN A  44      18.141   0.039  21.174  1.00 42.93           O  
+TER     130      ASN A  44 
+ATOM    130  ND2 ASN A  44      18.196  -0.113  22.664  1.00 32.91           N  
+TER     131      ASN A  44 
+ATOM    131  N   ARG A  45      19.150   0.053  22.714  1.00  8.35           N  
+TER     132      ARG A  45 
+ATOM    132  O   ARG A  45      17.866   3.456  22.482  1.00 12.18           O  
+TER     133      ARG A  45 
+ATOM    133  NE  ARG A  45      14.148   1.511  24.772  1.00 22.70           N  
+TER     134      ARG A  45 
+ATOM    134  NH1 ARG A  45      15.870  -1.110  26.244  1.00 23.35           N  
+TER     135      ARG A  45 
+ATOM    135  NH2 ARG A  45      15.273  -0.427  26.615  1.00 17.76           N  
+TER     136      ARG A  45 
+ATOM    136  N   ASN A  46      14.739   0.448  26.652  1.00 12.33           N  
+TER     137      ASN A  46 
+ATOM    137  O   ASN A  46      15.013  -2.572  28.163  1.00 20.85           O  
+TER     138      ASN A  46 
+ATOM    138  OD1 ASN A  46      13.750  -0.859  28.466  1.00 21.37           O  
+TER     139      ASN A  46 
+ATOM    139  ND2 ASN A  46      13.295  -2.968  27.955  1.00 17.42           N  
+TER     140      ASN A  46 
+ATOM    140  N   THR A  47      12.344  -2.814  28.093  1.00 18.87           N  
+TER     141      THR A  47 
+ATOM    141  O   THR A  47      14.000  -3.274  30.343  1.00 23.77           O  
+TER     142      THR A  47 
+ATOM    142  OG1 THR A  47      12.099  -4.198  29.942  1.00 33.96           O  
+TER     143      THR A  47 
+ATOM    143  N   ASP A  48      11.946  -4.286  29.839  1.00 17.86           N  
+TER     144      ASP A  48 
+ATOM    144  O   ASP A  48      17.544  -1.179  27.790  1.00 18.20           O  
+TER     145      ASP A  48 
+ATOM    145  OD1 ASP A  48      18.234   0.698  28.318  1.00 22.55           O  
+TER     146      ASP A  48 
+ATOM    146  OD2 ASP A  48      18.833  -0.207  27.668  1.00 20.68           O  
+TER     147      ASP A  48 
+ATOM    147  N   GLY A  49      18.954   1.834  26.601  1.00 13.40           N  
+TER     148      GLY A  49 
+ATOM    148  O   GLY A  49      20.411   2.005  28.081  1.00 14.41           O  
+TER     149      GLY A  49 
+ATOM    149  N   SER A  50      21.174   1.011  28.535  1.00  7.71           N  
+TER     150      SER A  50 
+ATOM    150  O   SER A  50      17.110   1.573  30.697  1.00  8.19           O  
+TER     151      SER A  50 
+ATOM    151  OG  SER A  50      19.924   0.195  32.151  1.00  8.82           O  
+TER     152      SER A  50 
+ATOM    152  N   THR A  51      19.189   0.799  32.399  1.00  4.60           N  
+TER     153      THR A  51 
+ATOM    153  O   THR A  51      20.499   0.263  32.010  1.00  5.59           O  
+TER     154      THR A  51 
+ATOM    154  OG1 THR A  51      20.640   0.342  34.610  1.00  6.79           O  
+TER     155      THR A  51 
+ATOM    155  N   ASP A  52      21.837  -0.103  34.517  1.00  3.72           N  
+TER     156      ASP A  52 
+ATOM    156  O   ASP A  52      21.698  -0.026  36.826  1.00  5.94           O  
+TER     157      ASP A  52 
+ATOM    157  OD1 ASP A  52      24.086  -0.713  36.135  1.00 18.42           O  
+TER     158      ASP A  52 
+ATOM    158  OD2 ASP A  52      24.616   0.141  35.810  1.00 12.45           O  
+TER     159      ASP A  52 
+ATOM    159  N   TYR A  53      23.981  -1.500  37.767  1.00  3.04           N  
+TER     160      TYR A  53 
+ATOM    160  O   TYR A  53      24.588  -2.294  38.915  1.00  5.06           O  
+TER     161      TYR A  53 
+ATOM    161  OH  TYR A  53      21.624   1.146  40.633  1.00  8.14           O  
+TER     162      TYR A  53 
+ATOM    162  N   GLY A  54      21.482   0.248  40.877  1.00  4.26           N  
+TER     163      GLY A  54 
+ATOM    163  O   GLY A  54      19.591   2.494  39.363  1.00  6.61           O  
+TER     164      GLY A  54 
+ATOM    164  N   ILE A  55      19.533   2.479  40.842  1.00  4.95           N  
+TER     165      ILE A  55 
+ATOM    165  O   ILE A  55      18.174   3.820  42.402  1.00  7.14           O  
+TER     166      ILE A  55 
+ATOM    166  N   LEU A  56      21.380   3.408  45.023  1.00  4.56           N  
+TER     167      LEU A  56 
+ATOM    167  O   LEU A  56      23.358   2.568  44.641  1.00  5.03           O  
+TER     168      LEU A  56 
+ATOM    168  N   GLN A  57      20.451   5.633  46.422  1.00  2.61           N  
+TER     169      GLN A  57 
+ATOM    169  O   GLN A  57      19.802   5.817  46.724  1.00  4.75           O  
+TER     170      GLN A  57 
+ATOM    170  OE1 GLN A  57      20.462   4.759  49.285  1.00  8.01           O  
+TER     171      GLN A  57 
+ATOM    171  NE2 GLN A  57      19.960   6.961  48.748  1.00  4.86           N  
+TER     172      GLN A  57 
+ATOM    172  N   ILE A  58      19.636   7.752  50.705  1.00  3.04           N  
+TER     173      ILE A  58 
+ATOM    173  O   ILE A  58      21.775   7.624  50.171  1.00  7.57           O  
+TER     174      ILE A  58 
+ATOM    174  N   ASN A  59      22.249   6.648  52.129  1.00  5.68           N  
+TER     175      ASN A  59 
+ATOM    175  O   ASN A  59      23.988   8.964  53.471  1.00  8.67           O  
+TER     176      ASN A  59 
+ATOM    176  OD1 ASN A  59      25.770   8.079  52.831  1.00 40.88           O  
+TER     177      ASN A  59 
+ATOM    177  ND2 ASN A  59      26.673   8.260  51.864  1.00 29.80           N  
+TER     178      ASN A  59 
+ATOM    178  N   SER A  60      26.386   8.311  53.075  1.00  4.68           N  
+TER     179      SER A  60 
+ATOM    179  O   SER A  60      25.517   7.885  55.205  1.00  9.61           O  
+TER     180      SER A  60 
+ATOM    180  OG  SER A  60      19.379   8.294  50.571  1.00  7.40           O  
+TER     181      SER A  60 
+ATOM    181  N   ARG A  61      19.012   9.218  52.610  1.00  8.90           N  
+TER     182      ARG A  61 
+ATOM    182  O   ARG A  61      20.181   6.999  52.994  1.00 14.49           O  
+TER     183      ARG A  61 
+ATOM    183  NE  ARG A  61      17.217   7.043  54.782  1.00 39.94           N  
+TER     184      ARG A  61 
+ATOM    184  NH1 ARG A  61      19.150   9.178  55.254  1.00 32.81           N  
+TER     185      ARG A  61 
+ATOM    185  NH2 ARG A  61      17.366   9.274  53.327  1.00 38.32           N  
+TER     186      ARG A  61 
+ATOM    186  N   TRP A  62      18.403   9.359  52.907  1.00 12.99           N  
+TER     187      TRP A  62 
+ATOM    187  O   TRP A  62      20.407  10.636  53.582  1.00 12.89           O  
+TER     188      TRP A  62 
+ATOM    188  NE1 TRP A  62      16.960  13.521  54.575  1.00 19.99           N  
+TER     189      TRP A  62 
+ATOM    189  N   TRP A  63      19.308  13.142  52.543  1.00  7.41           N  
+TER     190      TRP A  63 
+ATOM    190  O   TRP A  63      20.705  12.636  53.746  1.00  8.47           O  
+TER     191      TRP A  63 
+ATOM    191  NE1 TRP A  63      23.352  14.145  51.309  1.00  8.81           N  
+TER     192      TRP A  63 
+ATOM    192  N   CYS A  64      23.086  13.683  54.476  1.00  4.67           N  
+TER     193      CYS A  64 
+ATOM    193  O   CYS A  64      22.375  15.310  56.614  1.00  8.54           O  
+TER     194      CYS A  64 
+ATOM    194  SG  CYS A  64      24.633  13.144  57.950  1.00  6.62           S  
+TER     195      CYS A  64 
+ATOM    195  N   ASN A  65      24.357  14.454  57.983  1.00  6.10           N  
+TER     196      ASN A  65 
+ATOM    196  O   ASN A  65      22.504  13.666  59.093  1.00  7.35           O  
+TER     197      ASN A  65 
+ATOM    197  OD1 ASN A  65      23.183  13.875  58.236  1.00 10.75           O  
+TER     198      ASN A  65 
+ATOM    198  ND2 ASN A  65      25.865  14.411  58.264  1.00 10.96           N  
+TER     199      ASN A  65 
+ATOM    199  N   ASP A  66      26.447  13.300  58.363  1.00  5.53           N  
+TER     200      ASP A  66 
+ATOM    200  O   ASP A  66       1.580  -0.722   2.914  1.00  7.93           O  
+TER     201      ASP A  66 
+ATOM    201  OD1 ASP A  66       3.401   0.217   4.367  1.00  7.93           O  
+TER     202      ASP A  66 
+ATOM    202  OD2 ASP A  66       3.968  -0.694   3.978  1.00  8.39           O  
+TER     203      ASP A  66 
+ATOM    203  N   GLY A  67       4.205   1.406   2.893  1.00  6.85           N  
+TER     204      GLY A  67 
+ATOM    204  O   GLY A  67       5.639   1.462   4.812  1.00 11.55           O  
+TER     205      GLY A  67 
+ATOM    205  N   ARG A  68       6.251   0.445   4.666  1.00  7.85           N  
+TER     206      ARG A  68 
+ATOM    206  O   ARG A  68       5.746   3.492   6.079  1.00 11.54           O  
+TER     207      ARG A  68 
+ATOM    207  NE  ARG A  68       4.735  -0.969   8.331  1.00 21.37           N  
+TER     208      ARG A  68 
+ATOM    208  NH1 ARG A  68       3.651   0.593   8.829  1.00 19.82           N  
+TER     209      ARG A  68 
+ATOM    209  NH2 ARG A  68       3.086  -1.488   8.374  1.00 21.59           N  
+TER     210      ARG A  68 
+ATOM    210  N   THR A  69       2.106  -1.346   8.480  1.00  7.46           N  
+TER     211      THR A  69 
+ATOM    211  O   THR A  69       3.873  -1.702  10.931  1.00 10.78           O  
+TER     212      THR A  69 
+ATOM    212  OG1 THR A  69       1.278  -0.143  11.999  1.00  9.06           O  
+TER     213      THR A  69 
+ATOM    213  N   PRO A  70       2.872   0.556  10.717  1.00  9.76           N  
+TER     214      PRO A  70 
+ATOM    214  O   PRO A  70       1.909  -2.831  10.255  1.00 14.11           O  
+TER     215      PRO A  70 
+ATOM    215  N   GLY A  71       5.812   0.233  10.247  1.00 10.53           N  
+TER     216      GLY A  71 
+ATOM    216  O   GLY A  71       7.564  -0.793   9.983  1.00 15.84           O  
+TER     217      GLY A  71 
+ATOM    217  N   SER A  72       8.039   1.249   8.904  1.00 10.92           N  
+TER     218      SER A  72 
+ATOM    218  O   SER A  72       9.454   1.208  11.523  1.00 14.19           O  
+TER     219      SER A  72 
+ATOM    219  OG  SER A  72       9.164   2.863  12.026  1.00 13.91           O  
+TER     220      SER A  72 
+ATOM    220  N   ARG A  73      11.176   2.082  12.777  1.00  9.93           N  
+TER     221      ARG A  73 
+ATOM    221  O   ARG A  73      13.358   1.057  12.710  1.00 12.92           O  
+TER     222      ARG A  73 
+ATOM    222  NE  ARG A  73      10.360   0.241   9.302  1.00 22.89           N  
+TER     223      ARG A  73 
+ATOM    223  NH1 ARG A  73       6.953   0.380  12.557  1.00 17.64           N  
+TER     224      ARG A  73 
+ATOM    224  NH2 ARG A  73       6.149   1.203  12.896  1.00 20.74           N  
+TER     225      ARG A  73 
+ATOM    225  N   ASN A  74       7.724  -0.377  12.454  1.00  9.88           N  
+TER     226      ASN A  74 
+ATOM    226  O   ASN A  74       7.478   0.687  14.969  1.00 11.75           O  
+TER     227      ASN A  74 
+ATOM    227  OD1 ASN A  74       7.021  -2.775  15.121  1.00 11.59           O  
+TER     228      ASN A  74 
+ATOM    228  ND2 ASN A  74       7.931  -3.110  14.937  1.00  8.79           N  
+TER     229      ASN A  74 
+ATOM    229  N   LEU A  75       6.192  -3.409  13.546  1.00 10.00           N  
+TER     230      LEU A  75 
+ATOM    230  O   LEU A  75       7.490  -1.407  16.678  1.00 12.62           O  
+TER     231      LEU A  75 
+ATOM    231  N   CYS A  76       4.468  -1.528  14.883  1.00  7.76           N  
+TER     232      CYS A  76 
+ATOM    232  O   CYS A  76       9.592   0.199  16.320  1.00 11.45           O  
+TER     233      CYS A  76 
+ATOM    233  SG  CYS A  76      10.941   0.205  16.309  1.00  9.57           S  
+TER     234      CYS A  76 
+ATOM    234  N   ASN A  77      11.417  -0.757  15.800  1.00 10.03           N  
+TER     235      ASN A  77 
+ATOM    235  O   ASN A  77      11.348   2.283  16.139  1.00 11.83           O  
+TER     236      ASN A  77 
+ATOM    236  OD1 ASN A  77      13.693   0.341  15.466  1.00 34.87           O  
+TER     237      ASN A  77 
+ATOM    237  ND2 ASN A  77      14.024   2.431  14.279  1.00 26.24           N  
+TER     238      ASN A  77 
+ATOM    238  N   ILE A  78      13.895   2.707  16.191  1.00  8.41           N  
+TER     239      ILE A  78 
+ATOM    239  O   ILE A  78      14.991   2.950  18.021  1.00 10.18           O  
+TER     240      ILE A  78 
+ATOM    240  N   PRO A  79      11.947  -0.028  20.550  1.00  7.23           N  
+TER     241      PRO A  79 
+ATOM    241  O   PRO A  79      10.100  -1.103  20.577  1.00  8.04           O  
+TER     242      PRO A  79 
+ATOM    242  N   CYS A  80      12.571  -2.458  24.511  1.00  4.57           N  
+TER     243      CYS A  80 
+ATOM    243  O   CYS A  80      10.228  -0.748  25.595  1.00  8.20           O  
+TER     244      CYS A  80 
+ATOM    244  SG  CYS A  80       9.636  -0.550  25.291  1.00  6.51           S  
+TER     245      CYS A  80 
+ATOM    245  N   SER A  81       8.358   0.602  26.078  1.00  5.14           N  
+TER     246      SER A  81 
+ATOM    246  O   SER A  81       7.291   1.624  22.916  1.00  8.81           O  
+TER     247      SER A  81 
+ATOM    247  OG  SER A  81       8.708   0.747  23.182  1.00 11.09           O  
+TER     248      SER A  81 
+ATOM    248  N   ALA A  82       9.999  -0.408  20.678  1.00  6.67           N  
+TER     249      ALA A  82 
+ATOM    249  O   ALA A  82      13.759   0.552  22.232  1.00  9.84           O  
+TER     250      ALA A  82 
+ATOM    250  N   LEU A  83      15.040   0.416  22.292  1.00  6.17           N  
+TER     251      LEU A  83 
+ATOM    251  O   LEU A  83      16.136   1.341  22.139  1.00  7.36           O  
+TER     252      LEU A  83 
+ATOM    252  N   LEU A  84      18.230  -0.065  22.694  1.00  4.78           N  
+TER     253      LEU A  84 
+ATOM    253  O   LEU A  84      18.311   2.540  22.273  1.00  8.59           O  
+TER     254      LEU A  84 
+ATOM    254  N   SER A  85      14.191   1.512  24.777  1.00  6.94           N  
+TER     255      SER A  85 
+ATOM    255  O   SER A  85      15.295  -0.453  26.619  1.00  9.99           O  
+TER     256      SER A  85 
+ATOM    256  OG  SER A  85      14.509  -1.715  26.108  1.00 13.72           O  
+TER     257      SER A  85 
+ATOM    257  N   SER A  86      13.559  -1.708  26.337  1.00  7.56           N  
+TER     258      SER A  86 
+ATOM    258  O   SER A  86      15.151  -1.907  28.470  1.00 13.12           O  
+TER     259      SER A  86 
+ATOM    259  OG  SER A  86      13.294  -2.980  27.929  1.00 15.99           O  
+TER     260      SER A  86 
+ATOM    260  N   ASP A  87      12.352  -2.847  28.121  1.00  8.10           N  
+TER     261      ASP A  87 
+ATOM    261  O   ASP A  87      13.961  -3.249  30.310  1.00 10.26           O  
+TER     262      ASP A  87 
+ATOM    262  OD1 ASP A  87      12.399  -5.057  31.275  1.00 18.36           O  
+TER     263      ASP A  87 
+ATOM    263  OD2 ASP A  87      11.889  -4.224  29.836  1.00 27.25           O  
+TER     264      ASP A  87 
+ATOM    264  N   ILE A  88      11.160  -3.999  26.842  1.00  7.20           N  
+TER     265      ILE A  88 
+ATOM    265  O   ILE A  88      16.941   0.489  28.079  1.00  9.00           O  
+TER     266      ILE A  88 
+ATOM    266  N   THR A  89      18.979   1.609  27.778  1.00  7.70           N  
+TER     267      THR A  89 
+ATOM    267  O   THR A  89      21.198   1.038  28.513  1.00  9.08           O  
+TER     268      THR A  89 
+ATOM    268  OG1 THR A  89      18.116   1.060  30.347  1.00 13.41           O  
+TER     269      THR A  89 
+ATOM    269  N   ALA A  90      19.129   0.686  30.259  1.00  6.57           N  
+TER     270      ALA A  90 
+ATOM    270  O   ALA A  90      19.132   1.923  32.607  1.00  6.76           O  
+TER     271      ALA A  90 
+ATOM    271  N   SER A  91      20.481   0.294  32.025  1.00  4.00           N  
+TER     272      SER A  91 
+ATOM    272  O   SER A  91      19.865   0.764  34.795  1.00  6.68           O  
+TER     273      SER A  91 
+ATOM    273  OG  SER A  91      21.998  -1.150  34.493  1.00  6.92           O  
+TER     274      SER A  91 
+ATOM    274  N   VAL A  92      22.661   0.486  36.323  1.00  5.21           N  
+TER     275      VAL A  92 
+ATOM    275  O   VAL A  92      22.766  -0.300  36.551  1.00  8.34           O  
+TER     276      VAL A  92 
+ATOM    276  N   ASN A  93      24.815  -1.289  37.638  1.00  7.74           N  
+TER     277      ASN A  93 
+ATOM    277  O   ASN A  93      24.284  -0.432  38.923  1.00  9.39           O  
+TER     278      ASN A  93 
+ATOM    278  OD1 ASN A  93      22.818  -0.194  38.946  1.00 31.28           O  
+TER     279      ASN A  93 
+ATOM    279  ND2 ASN A  93      22.210  -0.996  39.056  1.00 18.78           N  
+TER     280      ASN A  93 
+ATOM    280  N   CYS A  94      22.320   1.159  38.474  1.00  6.21           N  
+TER     281      CYS A  94 
+ATOM    281  O   CYS A  94      21.443   0.226  40.858  1.00  8.43           O  
+TER     282      CYS A  94 
+ATOM    282  SG  CYS A  94      21.587   3.191  40.422  1.00  9.57           S  
+TER     283      CYS A  94 
+ATOM    283  N   ALA A  95      19.576   2.482  39.334  1.00  4.53           N  
+TER     284      ALA A  95 
+ATOM    284  O   ALA A  95      19.074   3.723  40.586  1.00  6.50           O  
+TER     285      ALA A  95 
+ATOM    285  N   LYS A  96      21.140   2.172  42.928  1.00  4.81           N  
+TER     286      LYS A  96 
+ATOM    286  O   LYS A  96      21.127   4.175  44.547  1.00  8.02           O  
+TER     287      LYS A  96 
+ATOM    287  NZ  LYS A  96      23.315   4.303  46.321  1.00 16.62           N  
+TER     288      LYS A  96 
+ATOM    288  N   LYS A  97      23.005   3.165  46.510  1.00  6.35           N  
+TER     289      LYS A  97 
+ATOM    289  O   LYS A  97      20.434   5.628  46.400  1.00  8.46           O  
+TER     290      LYS A  97 
+ATOM    290  NZ  LYS A  97      18.699   5.783  48.615  1.00 50.44           N  
+TER     291      LYS A  97 
+ATOM    291  N   ILE A  98      20.092   5.796  49.179  1.00  5.79           N  
+TER     292      ILE A  98 
+ATOM    292  O   ILE A  98      19.634   7.753  50.672  1.00  7.64           O  
+TER     293      ILE A  98 
+ATOM    293  N   VAL A  99      21.896   8.622  52.123  1.00  5.05           N  
+TER     294      VAL A  99 
+ATOM    294  O   VAL A  99      22.300   6.670  52.049  1.00  9.43           O  
+TER     295      VAL A  99 
+ATOM    295  N   SER A 100      24.526   8.005  54.178  1.00  9.23           N  
+TER     296      SER A 100 
+ATOM    296  O   SER A 100      26.700   8.362  51.758  1.00 15.02           O  
+TER     297      SER A 100 
+ATOM    297  OG  SER A 100      27.677   8.475  54.884  1.00 17.61           O  
+TER     298      SER A 100 
+ATOM    298  N   ASP A 101      26.237   8.116  55.642  1.00 13.83           N  
+TER     299      ASP A 101 
+ATOM    299  O   ASP A 101      19.397   8.302  50.556  1.00 17.59           O  
+TER     300      ASP A 101 
+ATOM    300  OD1 ASP A 101      19.196   7.089  53.816  1.00 28.10           O  
+TER     301      ASP A 101 
+ATOM    301  OD2 ASP A 101      20.226   7.015  52.970  1.00 31.15           O  
+TER     302      ASP A 101 
+ATOM    302  N   GLY A 102      18.897   6.165  54.649  1.00 13.42           N  
+TER     303      GLY A 102 
+ATOM    303  O   GLY A 102      17.262   7.040  54.766  1.00 14.74           O  
+TER     304      GLY A 102 
+ATOM    304  N   ASN A 103      18.310   8.883  55.333  1.00  9.33           N  
+TER     305      ASN A 103 
+ATOM    305  O   ASN A 103      18.433   9.360  52.901  1.00  7.60           O  
+TER     306      ASN A 103 
+ATOM    306  OD1 ASN A 103      20.432  10.640  53.576  1.00 21.30           O  
+TER     307      ASN A 103 
+ATOM    307  ND2 ASN A 103      18.645  11.838  53.932  1.00 24.03           N  
+TER     308      ASN A 103 
+ATOM    308  N   GLY A 104      17.243  12.011  54.949  1.00  4.51           N  
+TER     309      GLY A 104 
+ATOM    309  O   GLY A 104      16.979  13.515  54.576  1.00  5.36           O  
+TER     310      GLY A 104 
+ATOM    310  N   MET A 105      16.206  13.818  52.855  1.00  3.11           N  
+TER     311      MET A 105 
+ATOM    311  O   MET A 105      18.450  14.136  53.811  1.00  5.64           O  
+TER     312      MET A 105 
+ATOM    312  SD  MET A 105      19.482  13.434  54.364  1.00  8.32           S  
+TER     313      MET A 105 
+ATOM    313  N   ASN A 106      20.691  12.647  53.771  1.00  4.40           N  
+TER     314      ASN A 106 
+ATOM    314  O   ASN A 106      21.523  15.002  51.702  1.00  7.53           O  
+TER     315      ASN A 106 
+ATOM    315  OD1 ASN A 106      23.676  14.731  51.751  1.00  9.85           O  
+TER     316      ASN A 106 
+ATOM    316  ND2 ASN A 106      23.721  12.992  53.418  1.00  4.68           N  
+TER     317      ASN A 106 
+ATOM    317  N   ALA A 107      24.042  14.314  53.570  1.00  5.08           N  
+TER     318      ALA A 107 
+ATOM    318  O   ALA A 107      23.109  13.622  54.562  1.00  7.82           O  
+TER     319      ALA A 107 
+ATOM    319  N   TRP A 108      23.137  14.355  55.992  1.00  5.03           N  
+TER     320      TRP A 108 
+ATOM    320  O   TRP A 108      24.590  13.109  58.001  1.00  7.23           O  
+TER     321      TRP A 108 
+ATOM    321  NE1 TRP A 108      23.801  12.747  60.288  1.00  6.36           N  
+TER     322      TRP A 108 
+ATOM    322  N   VAL A 109       2.097   0.093   4.268  1.00  6.02           N  
+TER     323      VAL A 109 
+ATOM    323  O   VAL A 109       1.535   0.913   4.581  1.00  9.03           O  
+TER     324      VAL A 109 
+ATOM    324  N   ALA A 110       4.285   1.342   4.263  1.00  5.54           N  
+TER     325      ALA A 110 
+ATOM    325  O   ALA A 110       6.270   0.454   4.713  1.00  6.32           O  
+TER     326      ALA A 110 
+ATOM    326  N   TRP A 111       7.183   2.670   4.466  1.00  4.60           N  
+TER     327      TRP A 111 
+ATOM    327  O   TRP A 111       2.388   1.104   6.880  1.00  6.84           O  
+TER     328      TRP A 111 
+ATOM    328  NE1 TRP A 111       3.076  -1.509   8.386  1.00  5.96           N  
+TER     329      TRP A 111 
+ATOM    329  N   ARG A 112       1.266  -0.164  12.017  1.00  5.60           N  
+TER     330      ARG A 112 
+ATOM    330  O   ARG A 112       2.016  -2.788  10.342  1.00  9.75           O  
+TER     331      ARG A 112 
+ATOM    331  NE  ARG A 112       5.450  -0.563   8.438  1.00 23.53           N  
+TER     332      ARG A 112 
+ATOM    332  NH1 ARG A 112       5.816   0.236  10.251  1.00 21.83           N  
+TER     333      ARG A 112 
+ATOM    333  NH2 ARG A 112       5.149   0.915  10.596  1.00 23.80           N  
+TER     334      ARG A 112 
+ATOM    334  N   ASN A 113       7.116   0.188  10.442  1.00  6.56           N  
+TER     335      ASN A 113 
+ATOM    335  O   ASN A 113       8.096   1.089  10.150  1.00  8.32           O  
+TER     336      ASN A 113 
+ATOM    336  OD1 ASN A 113       9.869   2.115  11.888  1.00  6.23           O  
+TER     337      ASN A 113 
+ATOM    337  ND2 ASN A 113       9.180   2.861  12.035  1.00  6.83           N  
+TER     338      ASN A 113 
+ATOM    338  N   ARG A 114      11.180   2.061  12.790  1.00  6.42           N  
+TER     339      ARG A 114 
+ATOM    339  O   ARG A 114      13.349   1.013  12.725  1.00  9.55           O  
+TER     340      ARG A 114 
+ATOM    340  NE  ARG A 114      10.361   0.221   9.305  1.00  6.16           N  
+TER     341      ARG A 114 
+ATOM    341  NH1 ARG A 114       6.963   0.401  12.558  1.00  7.01           N  
+TER     342      ARG A 114 
+ATOM    342  NH2 ARG A 114       6.169   1.235  12.904  1.00  9.92           N  
+TER     343      ARG A 114 
+ATOM    343  N   CYS A 115       7.733  -0.352  12.462  1.00  4.52           N  
+TER     344      CYS A 115 
+ATOM    344  O   CYS A 115       7.481   0.717  14.976  1.00  6.82           O  
+TER     345      CYS A 115 
+ATOM    345  SG  CYS A 115       5.765  -1.024  14.636  1.00  6.24           S  
+TER     346      CYS A 115 
+ATOM    346  N   LYS A 116       7.022  -2.748  15.152  1.00  5.26           N  
+TER     347      LYS A 116 
+ATOM    347  O   LYS A 116       7.159  -2.873  16.501  1.00  8.90           O  
+TER     348      LYS A 116 
+ATOM    348  NZ  LYS A 116       5.548  -2.865  18.180  1.00  8.60           N  
+TER     349      LYS A 116 
+ATOM    349  N   GLY A 117       5.322  -1.492  16.615  1.00  7.53           N  
+TER     350      GLY A 117 
+ATOM    350  O   GLY A 117       9.948  -1.343  15.923  1.00 13.68           O  
+TER     351      GLY A 117 
+ATOM    351  N   THR A 118       9.603   0.218  16.335  1.00  7.92           N  
+TER     352      THR A 118 
+ATOM    352  O   THR A 118      11.430  -0.742  15.805  1.00 10.52           O  
+TER     353      THR A 118 
+ATOM    353  OG1 THR A 118      11.658   1.197  16.076  1.00  7.17           O  
+TER     354      THR A 118 
+ATOM    354  N   ASP A 119      13.275   1.299  17.210  1.00  9.68           N  
+TER     355      ASP A 119 
+ATOM    355  O   ASP A 119      14.038   2.431  14.255  1.00 12.61           O  
+TER     356      ASP A 119 
+ATOM    356  OD1 ASP A 119      15.375   3.904  17.134  1.00 25.86           O  
+TER     357      ASP A 119 
+ATOM    357  OD2 ASP A 119      15.018   2.969  18.031  1.00 33.27           O  
+TER     358      ASP A 119 
+ATOM    358  N   VAL A 120      10.891   0.443  18.527  1.00  8.73           N  
+TER     359      VAL A 120 
+ATOM    359  O   VAL A 120      12.541  -0.692  20.235  1.00  9.72           O  
+TER     360      VAL A 120 
+ATOM    360  N   GLN A 121      10.119  -1.115  20.571  1.00  8.89           N  
+TER     361      GLN A 121 
+ATOM    361  O   GLN A 121      11.729  -1.831  22.965  1.00 11.64           O  
+TER     362      GLN A 121 
+ATOM    362  OE1 GLN A 121      10.159  -0.798  25.559  0.49 44.63           O  
+TER     363      GLN A 121 
+ATOM    363  NE2 GLN A 121       9.329  -0.329  26.579  0.49 39.32           N  
+TER     364      GLN A 121 
+ATOM    364  N   ALA A 122       9.514  -0.630  25.241  1.00  9.57           N  
+TER     365      ALA A 122 
+ATOM    365  O   ALA A 122       8.048   0.912  23.660  1.00 11.29           O  
+TER     366      ALA A 122 
+ATOM    366  N   TRP A 123       8.890   0.438  21.858  1.00  9.09           N  
+TER     367      TRP A 123 
+ATOM    367  O   TRP A 123      13.428  -0.130  20.076  1.00 12.38           O  
+TER     368      TRP A 123 
+ATOM    368  NE1 TRP A 123      15.467  -0.571  21.962  1.00  9.23           N  
+TER     369      TRP A 123 
+ATOM    369  N   ILE A 124      18.185   0.128  21.231  1.00  9.19           N  
+TER     370      ILE A 124 
+ATOM    370  O   ILE A 124      17.665  -0.714  22.074  1.00 13.41           O  
+TER     371      ILE A 124 
+ATOM    371  N   ARG A 125      14.846   0.547  24.479  1.00 11.29           N  
+TER     372      ARG A 125 
+ATOM    372  O   ARG A 125      15.905  -1.142  26.247  1.00 16.05           O  
+TER     373      ARG A 125 
+ATOM    373  NE  ARG A 125      13.600  -1.753  26.355  0.63 33.47           N  
+TER     374      ARG A 125 
+ATOM    374  NH1 ARG A 125      14.214  -1.806  28.709  0.63 29.50           N  
+TER     375      ARG A 125 
+ATOM    375  NH2 ARG A 125      15.138  -1.903  28.437  0.63 36.10           N  
+TER     376      ARG A 125 
+ATOM    376  N   GLY A 126      13.720  -0.881  28.458  1.00 13.73           N  
+TER     377      GLY A 126 
+ATOM    377  O   GLY A 126      13.781  -3.919  29.961  1.00 18.38           O  
+TER     378      GLY A 126 
+ATOM    378  N   CYS A 127      12.987  -3.041  30.502  1.00 12.29           N  
+TER     379      CYS A 127 
+ATOM    379  O   CYS A 127      12.016  -4.120  30.023  1.00 13.64           O  
+TER     380      CYS A 127 
+ATOM    380  SG  CYS A 127      11.834  -4.149  29.828  1.00 13.69           S  
+TER     381      CYS A 127 
+ATOM    381  N   ARG A 128      11.132  -3.974  26.854  1.00 12.34           N  
+TER     382      ARG A 128 
+ATOM    382  O   ARG A 128      16.959   0.499  28.047  1.00 20.20           O  
+TER     383      ARG A 128 
+ATOM    383  NE  ARG A 128      18.998   1.854  26.566  1.00 41.08           N  
+TER     384      ARG A 128 
+ATOM    384  NH1 ARG A 128      18.440   2.786  28.114  1.00 43.71           N  
+TER     385      ARG A 128 
+ATOM    385  NH2 ARG A 128      20.442   2.055  28.124  1.00 40.97           N  
+TER     386      ARG A 128 
+ATOM    386  N   LEU A 129      21.219   1.070  28.493  1.00 14.25           N  
+TER     387      LEU A 129 
+ATOM    387  O   LEU A 129      17.132   1.703  30.687  1.00 29.67           O  
+TER     388      LEU A 129 
+ATOM    388  OXT LEU A 129      18.328   0.453  32.750  1.00 30.76           O  
+TER     389      LEU A 129 
+ATOM    389  I   IOD B1130      20.465   0.321  32.035  0.36 27.85           I  
+TER     390      IOD B1130 
+ATOM    390  I   IOD C1131      21.329  -0.196  34.076  0.25 14.19           I  
+TER     391      IOD C1131 
+ATOM    391  I   IOD D1132      20.595   0.380  34.619  0.18 13.21           I  
+TER     392      IOD D1132 
+ATOM    392  I   IOD E1133      19.856   0.803  34.796  0.20 19.80           I  
+TER     393      IOD E1133 
+ATOM    393  O1  EDO F1134      21.940  -1.169  34.494  1.00 20.74           O  
+TER     394      EDO F1134 
+ATOM    394  O2  EDO F1134      21.644  -0.052  36.838  1.00 15.98           O  
+TER     395      EDO F1134 
+ATOM    395  O   CMO G1135      22.740  -0.326  36.543  1.00 17.79           O  
+TER     396      CMO G1135 
+ATOM    396  O1  EDO H1136      24.565   0.059  35.798  1.00 29.39           O  
+TER     397      EDO H1136 
+ATOM    397  O2  EDO H1136      24.783  -1.329  37.624  1.00 34.69           O  
+TER     398      EDO H1136 
+ATOM    398  NA   NA P1144      22.313   1.138  38.482  1.00  9.64           N  
+TER     399       NA P1144 
+ATOM    399  NA   NA Q1145      22.605   2.193  40.174  1.00 11.50           N  
+TER     400       NA Q1145 
+ATOM    400  NA   NA R1146      21.585   1.107  40.604  1.00 16.22           N  
+TER     401       NA R1146 
+ATOM    401  I   IOD S1147      21.414   0.209  40.844  0.23 25.55           I  
+TER     402      IOD S1147 
+ATOM    402  O   HOH T2001      21.019   2.287  40.547  1.00 13.42           O  
+TER     403      HOH T2001 
+ATOM    403  O   HOH T2002      21.580   3.173  40.398  1.00 23.31           O  
+TER     404      HOH T2002 
+ATOM    404  O   HOH T2003      19.565   2.474  39.309  1.00 12.90           O  
+TER     405      HOH T2003 
+ATOM    405  O   HOH T2004      19.519   2.454  40.788  1.00 18.98           O  
+TER     406      HOH T2004 
+ATOM    406  O   HOH T2005      18.954   1.659  40.860  1.00 11.51           O  
+TER     407      HOH T2005 
+ATOM    407  O   HOH T2006      19.063   3.717  40.544  1.00 25.25           O  
+TER     408      HOH T2006 
+ATOM    408  O   HOH T2007      18.162   3.815  42.370  1.00 37.84           O  
+TER     409      HOH T2007 
+ATOM    409  O   HOH T2008      21.112   2.161  42.914  1.00 13.78           O  
+TER     410      HOH T2008 
+ATOM    410  O   HOH T2009      21.125   1.051  43.067  1.00  8.68           O  
+TER     411      HOH T2009 
+ATOM    411  O   HOH T2010      21.201   3.296  42.557  1.00 13.36           O  
+TER     412      HOH T2010 
+ATOM    412  O   HOH T2011      21.114   4.164  44.529  1.00 24.24           O  
+TER     413      HOH T2011 
+ATOM    413  O   HOH T2012      21.326   3.387  44.985  1.00 28.41           O  
+TER     414      HOH T2012 
+ATOM    414  O   HOH T2013      20.836   2.527  44.911  1.00 19.08           O  
+TER     415      HOH T2013 
+ATOM    415  O   HOH T2014      22.813   3.349  44.382  1.00 18.68           O  
+TER     416      HOH T2014 
+ATOM    416  O   HOH T2015      23.295   2.527  44.610  1.00 31.44           O  
+TER     417      HOH T2015 
+ATOM    417  O   HOH T2016      23.291   4.281  46.307  0.50 22.86           O  
+TER     418      HOH T2016 
+ATOM    418  O   HOH T2017      22.977   3.149  46.495  1.00 26.27           O  
+TER     419      HOH T2017 
+ATOM    419  O   HOH T2018      23.917   3.101  45.075  1.00 20.34           O  
+TER     420      HOH T2018 
+ATOM    420  O   HOH T2019      20.655   4.658  44.334  1.00  6.88           O  
+TER     421      HOH T2019 
+ATOM    421  O   HOH T2020      20.416   5.618  46.376  1.00 22.21           O  
+TER     422      HOH T2020 
+ATOM    422  O   HOH T2021      20.354   4.670  46.925  1.00 26.00           O  
+TER     423      HOH T2021 
+ATOM    423  O   HOH T2022      20.640   3.872  47.098  1.00 11.65           O  
+TER     424      HOH T2022 
+ATOM    424  O   HOH T2023      19.756   5.800  46.675  1.00 21.30           O  
+TER     425      HOH T2023 
+ATOM    425  O   HOH T2024      20.128   6.733  46.974  1.00 20.84           O  
+TER     426      HOH T2024 
+ATOM    426  O   HOH T2025      18.673   5.781  48.598  1.00 18.21           O  
+TER     427      HOH T2025 
+ATOM    427  O   HOH T2026      20.078   5.794  49.168  1.00 28.49           O  
+TER     428      HOH T2026 
+ATOM    428  O   HOH T2027      20.449   4.762  49.234  1.00 28.60           O  
+TER     429      HOH T2027 
+ATOM    429  O   HOH T2028      19.956   6.966  48.695  1.00 11.53           O  
+TER     430      HOH T2028 
+ATOM    430  O   HOH T2029      19.622   7.752  50.640  1.00 26.35           O  
+TER     431      HOH T2029 
+ATOM    431  O   HOH T2030      20.326   7.226  51.206  1.00  7.60           O  
+TER     432      HOH T2030 
+ATOM    432  O   HOH T2031      20.217   6.302  50.658  1.00 21.13           O  
+TER     433      HOH T2031 
+ATOM    433  O   HOH T2032      21.812   7.646  50.057  1.00 21.51           O  
+TER     434      HOH T2032 
+ATOM    434  O   HOH T2033      22.380   6.936  50.196  1.00 33.68           O  
+TER     435      HOH T2033 
+ATOM    435  O   HOH T2034      21.914   8.629  52.057  1.00 20.08           O  
+TER     436      HOH T2034 
+ATOM    436  O   HOH T2035      22.445   7.678  52.680  1.00 10.07           O  
+TER     437      HOH T2035 
+ATOM    437  O   HOH T2036      21.930   8.409  52.512  1.00  8.54           O  
+TER     438      HOH T2036 
+ATOM    438  O   HOH T2037      22.356   6.692  51.969  1.00 24.56           O  
+TER     439      HOH T2037 
+ATOM    439  O   HOH T2038      23.927   8.060  51.322  1.00 19.32           O  
+TER     440      HOH T2038 
+ATOM    440  O   HOH T2039      24.432   7.342  51.527  1.00 17.11           O  
+TER     441      HOH T2039 
+ATOM    441  O   HOH T2040      24.009   9.053  53.300  1.00 24.81           O  
+TER     442      HOH T2040 
+ATOM    442  O   HOH T2041      24.566   8.058  54.098  1.00  4.86           O  
+TER     443      HOH T2041 
+ATOM    443  O   HOH T2042      23.968   7.900  53.553  1.00 15.03           O  
+TER     444      HOH T2042 
+ATOM    444  O   HOH T2043      25.851   8.243  52.606  1.00 13.76           O  
+TER     445      HOH T2043 
+ATOM    445  O   HOH T2044      26.720   8.467  51.647  1.00 35.22           O  
+TER     446      HOH T2044 
+ATOM    446  O   HOH T2045      26.405   8.507  52.824  1.00 25.74           O  
+TER     447      HOH T2045 
+ATOM    447  O   HOH T2046      27.697   8.606  54.778  1.00 36.11           O  
+TER     448      HOH T2046 
+ATOM    448  O   HOH T2047      26.293   8.207  55.543  1.00 25.60           O  
+TER     449      HOH T2047 
+ATOM    449  O   HOH T2048      25.658   8.034  54.970  1.00 11.99           O  
+TER     450      HOH T2048 
+ATOM    450  O   HOH T2049      27.274   8.349  51.258  1.00 41.52           O  
+TER     451      HOH T2049 
+ATOM    451  O   HOH T2050      19.418   8.313  50.532  1.00 12.28           O  
+TER     452      HOH T2050 
+ATOM    452  O   HOH T2051      19.035   9.240  52.564  1.00  9.59           O  
+TER     453      HOH T2051 
+ATOM    453  O   HOH T2052      19.080   8.246  53.444  1.00 19.62           O  
+TER     454      HOH T2052 
+ATOM    454  O   HOH T2053      19.237   7.094  53.791  1.00  5.55           O  
+TER     455      HOH T2053 
+ATOM    455  O   HOH T2054      20.269   7.031  52.950  1.00 17.59           O  
+TER     456      HOH T2054 
+ATOM    456  O   HOH T2055      18.946   6.167  54.632  1.00 29.91           O  
+TER     457      HOH T2055 
+ATOM    457  O   HOH T2056      18.316   7.354  55.538  1.00 12.88           O  
+TER     458      HOH T2056 
+ATOM    458  O   HOH T2057      18.673   6.865  54.389  1.00 28.50           O  
+TER     459      HOH T2057 
+ATOM    459  O   HOH T2058      17.305   7.029  54.752  1.00 15.15           O  
+TER     460      HOH T2058 
+ATOM    460  O   HOH T2059      18.351   8.874  55.311  1.00 24.69           O  
+TER     461      HOH T2059 
+ATOM    461  O   HOH T2060      19.240   9.166  55.242  0.50 17.38           O  
+TER     462      HOH T2060 
+ATOM    462  O   HOH T2061      17.455   9.256  53.299  1.00 23.18           O  
+TER     463      HOH T2061 
+ATOM    463  O   HOH T2062      18.461   9.357  52.896  1.00 28.41           O  
+TER     464      HOH T2062 
+ATOM    464  O   HOH T2063      17.461   9.512  53.223  1.00 25.91           O  
+TER     465      HOH T2063 
+ATOM    465  O   HOH T2064      19.269  10.675  52.888  1.00 35.00           O  
+TER     466      HOH T2064 
+ATOM    466  O   HOH T2065      20.461  10.642  53.566  1.00 15.34           O  
+TER     467      HOH T2065 
+ATOM    467  O   HOH T2066      18.667  11.833  53.917  1.00 18.00           O  
+TER     468      HOH T2066 
+ATOM    468  O   HOH T2067      17.263  12.005  54.932  1.00 15.94           O  
+TER     469      HOH T2067 
+ATOM    469  O   HOH T2068      17.096  11.644  53.218  1.00 11.45           O  
+TER     470      HOH T2068 
+ATOM    470  O   HOH T2069      16.603  11.491  53.863  1.00 16.16           O  
+TER     471      HOH T2069 
+ATOM    471  O   HOH T2070      17.000  13.510  54.570  1.00 11.00           O  
+TER     472      HOH T2070 
+ATOM    472  O   HOH T2071      16.226  13.810  52.849  1.00  5.72           O  
+TER     473      HOH T2071 
+ATOM    473  O   HOH T2072      16.725  13.798  54.219  1.00 14.01           O  
+TER     474      HOH T2072 
+ATOM    474  O   HOH T2073      18.358  14.110  55.304  1.00 19.18           O  
+TER     475      HOH T2073 
+ATOM    475  O   HOH T2074      18.463  14.128  53.812  1.00 11.83           O  
+TER     476      HOH T2074 
+ATOM    476  O   HOH T2075      18.473  15.115  53.596  1.00  8.34           O  
+TER     477      HOH T2075 
+ATOM    477  O   HOH T2076      19.356  13.128  52.563  1.00 17.36           O  
+TER     478      HOH T2076 
+ATOM    478  O   HOH T2077      19.520  13.435  54.388  1.00 18.45           O  
+TER     479      HOH T2077 
+ATOM    479  O   HOH T2078      20.688  13.094  55.549  1.00 13.91           O  
+TER     480      HOH T2078 
+ATOM    480  O   HOH T2079      20.683  12.667  53.799  1.00 22.33           O  
+TER     481      HOH T2079 
+ATOM    481  O   HOH T2080      21.827  13.519  52.395  1.00 19.88           O  
+TER     482      HOH T2080 
+ATOM    482  O   HOH T2081      21.978  13.885  52.244  1.00 22.71           O  
+TER     483      HOH T2081 
+ATOM    483  O   HOH T2082      21.607  14.899  51.737  1.00 11.42           O  
+TER     484      HOH T2082 
+ATOM    484  O   HOH T2083      21.460  13.187  52.108  1.00 15.76           O  
+TER     485      HOH T2083 
+ATOM    485  O   HOH T2084      23.476  13.832  51.324  1.00 27.54           O  
+TER     486      HOH T2084 
+ATOM    486  O   HOH T2085      23.764  14.531  51.840  1.00 19.19           O  
+TER     487      HOH T2085 
+ATOM    487  O   HOH T2086      23.758  12.813  53.453  1.00 32.61           O  
+TER     488      HOH T2086 
+ATOM    488  O   HOH T2087      24.095  14.195  53.565  1.00 30.16           O  
+TER     489      HOH T2087 
+ATOM    489  O   HOH T2088      24.097  15.280  53.554  1.00 24.01           O  
+TER     490      HOH T2088 
+ATOM    490  O   HOH T2089      25.106  13.801  54.467  1.00 24.45           O  
+TER     491      HOH T2089 
+ATOM    491  O   HOH T2090      23.134  13.560  54.652  1.00 17.66           O  
+TER     492      HOH T2090 
+ATOM    492  O   HOH T2091      23.448  12.533  55.795  1.00  5.84           O  
+TER     493      HOH T2091 
+ATOM    493  O   HOH T2092      23.150  14.341  55.956  1.00  8.58           O  
+TER     494      HOH T2092 
+ATOM    494  O   HOH T2093      22.442  15.343  56.730  1.00 24.68           O  
+TER     495      HOH T2093 
+ATOM    495  O   HOH T2094      24.002  13.896  56.496  1.00 14.39           O  
+TER     496      HOH T2094 
+ATOM    496  O   HOH T2095      24.554  13.083  58.049  1.00 16.36           O  
+TER     497      HOH T2095 
+ATOM    497  O   HOH T2096      24.259  14.508  58.007  1.00 28.56           O  
+TER     498      HOH T2096 
+ATOM    498  O   HOH T2097      24.014  15.569  59.106  1.00 12.36           O  
+TER     499      HOH T2097 
+ATOM    499  O   HOH T2098      23.360  13.857  58.744  1.00 19.50           O  
+TER     500      HOH T2098 
+ATOM    500  O   HOH T2099      22.332  13.847  59.280  1.00 13.04           O  
+TER     501      HOH T2099 
+ATOM    501  O   HOH T2100      23.676  12.828  60.308  1.00 24.22           O  
+TER     502      HOH T2100 
+ATOM    502  O   HOH T2101      23.428  14.609  60.956  1.00 22.98           O  
+TER     503      HOH T2101 
+ATOM    503  O   HOH T2102      22.835  14.219  58.429  1.00  7.65           O  
+TER     504      HOH T2102 
+ATOM    504  O   HOH T2103      25.742  14.395  58.560  1.00 18.91           O  
+TER     505      HOH T2103 
+END   
